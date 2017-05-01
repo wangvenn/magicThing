@@ -118,7 +118,7 @@ def sentence_retrieval(article):
     original_article = copy.deepcopy(article)
     sentences,indexs,queries,answers = divide_data(article)
     original_query = copy.deepcopy(queries)
-    
+
     predicts = []
     for i in range(len(queries)):
         queries[i] = transform_query(queries[i])
@@ -136,7 +136,7 @@ def sentence_retrieval(article):
 def input_NER():
     stanford_dir = os.path.join('stanford-ner-2016-10-31')
     jarfile = os.path.join(stanford_dir,'stanford-ner.jar')
-    modelfile = os.path.join(stanford_dir,'classifiers/english.all.3class.distsim.crf.ser.gz')
+    modelfile = os.path.join(stanford_dir,'classifiers/english.muc.7class.distsim.crf.ser.gz')
     return modelfile,jarfile
 
 '''input data'''
@@ -162,10 +162,16 @@ print sentences[2]
 print queries[2]
 entities = st.tag(nltk.word_tokenize(sentences[2]))
 
-for i in range(len(entities)):
-    if entities[i][1] == 'ORGANIZATION':
-        entities[i][1] = 'O'
-    if entities[i][0]
+for query in queries:
+    print query
+
+
+# for i in range(len(entities)):
+#     if entities[i][1] == 'ORGANIZATION':
+#         entities[i][1] = 'O'
+#     # if entities[i][0].isdigit():
+#     #     entities[i][1] = 'NUMBER'
+#     print entities[i]
 
 
 
