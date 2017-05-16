@@ -46,3 +46,16 @@ total: 0.151141184469
 
 For test set:
 0.18483
+
+Update:
+
+1. Fix a bug ---- ',' should be replaced by -COMMA-
+
+2. better parameters:
+
+Accuracy of BM25 with k1: 0.78  k2: 0  b: 0.5
+0.68264717486
+
+
+for w1:
+#best when w1 = 0.7
