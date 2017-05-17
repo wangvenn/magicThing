@@ -61,3 +61,7 @@ Accuracy of BM25 with k1: 0.78  k2: 0  b: 0.5
 
 for w1:
 #best when w1 = 0.7
+
+
+5.17 update
+Finished Basic QA System (0.17866)
