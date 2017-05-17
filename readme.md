@@ -30,6 +30,8 @@ Parameters for our own baseline:
 
 For development set:
 
+(one mistake: forget to convert ',' into -COMMA-)
+
 parameters used:
 
 Accuracy of BM25 with k1: 1.1  k2: 0  b: 0.18
@@ -42,20 +44,20 @@ predict accuracy:
 0.672239573764 (answer in answer_list)
 0.228917876171 (answer is correct)
 
-total: 0.151141184469
+total: 
+0.151141184469
 
 For test set:
 0.18483
 
 Update:
 
-1. Fix a bug ---- ',' should be replaced by -COMMA-
+1. Fix the -COMMA- bug
 
-2. better parameters:
+2. better parameters (performs better for dev set but get the same result at the previous version: w1 = 0.9 ...):
 
 Accuracy of BM25 with k1: 0.78  k2: 0  b: 0.5
 0.68264717486
-
 
 for w1:
 #best when w1 = 0.7
