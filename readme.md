@@ -65,3 +65,12 @@ for w1:
 
 5.17 update
 Finished Basic QA System (0.17866)
+
+5.18 update
+Improved Basic QA System(0.20694)
+1. import conjunction word (and,of): For word in this set, and both the pervious word and the back word will be combined 
+2. import location word(southwest...): For word in this set, it will be marked as LOCATION in our NER system
+3. import time word (...) : For word in this set, it will be marked as NUMBER in our NER system
+4. remove 'university' from the name_list, move 'distinction' from number_list to location_list
+5. remark '(', ')' and some punctuations as 'O' (for example, '(' in 'James (who ...)' will be marked as 'PERSON' by Standford System)
+6. For question 'WHEN', if cannot find result by 'NUMBER', try to find answer by 'ORGANIZATION'
