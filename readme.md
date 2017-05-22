@@ -92,8 +92,17 @@ enhance 0.21928
 use POS in 'what' type
 
 enhance 0.22571
+for dev:
+0.177242112726
 filter some useless results
 divide number into year and others
 
 enhance 0.23239
 extract 2 sents
+for dev:
+0.183032021742
+
+enhance 0.23522
+extract 4 sents
+for dev:
+0.184213635827
