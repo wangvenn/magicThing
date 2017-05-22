@@ -91,3 +91,6 @@ Thus here I change rule 1 into the prerequisite. And for the total score, w3 is 
 enhance 0.21928
 use POS in 'what' type
 
+enhance 0.22571
+filter some useless results
+divide number into year and others
