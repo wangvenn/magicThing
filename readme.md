@@ -94,3 +94,6 @@ use POS in 'what' type
 enhance 0.22571
 filter some useless results
 divide number into year and others
+
+enhance 0.23239
+extract 2 sents
