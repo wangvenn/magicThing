@@ -87,3 +87,7 @@ for dev:
 Previously, we use rule 1 * w1 + rule 3 * w3, however, the main purpose for rule 1 is just to ignore those words which emerge in both query and answer.
 Thus here I change rule 1 into the prerequisite. And for the total score, w3 is much higher than w1 (been tested in train and dev sets)
 
+5.22 update
+enhance 0.21928
+use POS in 'what' type
+
