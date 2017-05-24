@@ -106,3 +106,9 @@ enhance 0.23522
 extract 4 sents
 for dev:
 0.184213635827
+
+
+update 5.24
+enhance 0.24704
+for dev:
+0.196975067943
