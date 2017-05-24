@@ -8,15 +8,15 @@ id,answer
 7,Nicholas
 8,Russian
 9,Napoleon III
-10,cause
+10,October
 11,Romania
-12,Turkish
+12,Balkans
 13,Omar Pasha
 14,1855
 15,France
-16,Frustrated
+16,Sevastopol
 17,1855
-18,The Battle of Balaclava
+18,around
 19,Omar Pasha
 20,Sevastopol
 21,Paris Treaty
@@ -47,7 +47,7 @@ id,answer
 46,1848
 47,Austria
 48,Hungarian Revolution
-49,Wild Fields
+49,Black Sea
 50,Wild Fields
 51,Wild Fields
 52,Ottoman Empire
@@ -104,26 +104,26 @@ id,answer
 103,Ottoman
 104,Ottoman Empire
 105,1853
-106,Ottoman
+106,Omar Pasha
 107,Calafat
 108,Oltenița
 109,Chetatea
 110,Russians
-111,Turkish
+111,Danube River
 112,Ottomans
 113,1854
 114,English and French
 115,Austrian
 116,Russians
-117,Orthodox Christians
+117,Don River
 118,Orthodox Christians
 119,Russia and Turkey
-120,Allied
+120,Bulgaria
 121,Omar Pasha
 122,1854
 123,Giurgiu
 124,Nicholas
-125,Baltic
+125,Sinop
 126,Furious
 127,Furious
 128,HMS Retribution
@@ -155,7 +155,7 @@ id,answer
 154,Russians
 155,British
 156,southeast
-157,Russian
+157,Kadikoi
 158,Rather
 159,Russian
 160,Minie
@@ -175,7 +175,7 @@ id,answer
 174,An Electrical
 175,British
 176,Mamelon
-177,Russians
+177,Orbeliani
 178,Several
 179,Admiral Nakhimov
 180,Raglan
@@ -183,12 +183,12 @@ id,answer
 182,French
 183,The
 184,months
-185,Russians
+185,around
 186,French Army
 187,Erzerum
 188,British
 189,Lord
-190,Russian
+190,Azov Sea
 191,Kerch Strait
 192,Taganrog
 193,important hub
@@ -215,9 +215,9 @@ id,answer
 214,Nicholas
 215,late September
 216,8000
-217,Russians
+217,Ingur River
 218,Georgian
-219,Popularisation
+219,Saint Petersburg
 220,Russian
 221,Russian
 222,1854
@@ -225,7 +225,7 @@ id,answer
 224,1855
 225,Åland Islands
 226,Viktor Poplonsky
-227,Rossiya
+227,Russian
 228,Part
 229,Swede
 230,Russian
@@ -269,7 +269,7 @@ id,answer
 268,French and Ottoman
 269,Andrew Lambert and Winfried Baumgart
 270,British
-271,nearby British Columbia
+271,British Columbia
 272,Alexander II
 273,Alexander II
 274,United Kingdom
@@ -306,7 +306,7 @@ id,answer
 305,Latin
 306,Filiki Eteria
 307,The earliest evidence of the presence of human ancestors in the southern Balkans-COMMA- dated to 270-COMMA-000 BC-COMMA- is to be found in the Petralona cave-COMMA- in the Greek province of Macedonia.
-308,BC
+308,270-COMMA-000
 309,Greek
 310,three
 311,Paleolithic
@@ -337,8 +337,8 @@ id,answer
 336,Macedon's defeat at the Battle of Pydna in 168 BC signalled the end of Antigonid power in Greece.
 337,AD
 338,Romans
-339,Roman Emperor
-340,Homer
+339,Nero
+340,Virgil
 341,Roman
 342,Greek
 343,Greek
@@ -347,10 +347,10 @@ id,answer
 346,Academy
 347,Attempts by some of the Greek city-states of Asia Minor to overthrow Persian rule failed-COMMA- and Persia invaded the states of mainland Greece in 492 BC-COMMA- but was forced to withdraw after a defeat at the Battle of Marathon in 490 BC.
 348,Empire
-349,Slavic
-350,Ottoman
-351,Greek
-352,Greek
+349,Corinth and Thessalonica
+350,15th
+351,8th
+352,Sicily and Asia Minor
 353,Northern Greece
 354,1204
 355,1261
@@ -361,10 +361,10 @@ id,answer
 360,Morea
 361,1571 and 1670
 362,West
-363,First
+363,Aegean
 364,1797
 365,United Kingdom
-366,Venetian
+366,Aegean
 367,Ottoman
 368,Islam
 369,Greek
@@ -372,10 +372,10 @@ id,answer
 371,1571
 372,1600–1601
 373,1600–1601
-374,Morean War
+374,Epirus
 375,Prior
 376,Greek Dark Ages
-377,United Nations World Tourism Organization
+377,16.2%
 378,Rigas Feraios
 379,1798
 380,1814
@@ -409,7 +409,7 @@ id,answer
 408,1917
 409,2014
 410,1919–1922
-411,Minor Greeks
+411,Asia Minor
 412,Population
 413,Ottoman and Turkish
 414,Asia
@@ -472,7 +472,7 @@ id,answer
 471,PASOK and New Democracy
 472,SYRIZA
 473,May
-474,New Democracy
+474,29%
 475,Minister
 476,Greece
 477,Ministry for Foreign Affairs
@@ -480,28 +480,28 @@ id,answer
 479,early
 480,males
 481,universal compulsory military service
-482,males
-483,Greek
+482,However
+483,18 and 60
 484,1 January
 485,325
 486,Kallikratis
 487,Greek
 488,Central Macedonia
 489,largest shipping powers-COMMA- middle powers and top tourist destinations
-490,85.0 %
-491,service sector
+490,85.0%
+491,3.0%
 492,14.9 million
-493,United Nations World Tourism Organization
+493,7th
 494,one
-495,important trading partner and largest foreign investor
-496,important trading partner and largest foreign investor
-497,capital
+495,number-two
+496,number-two
+497,Republic of Macedonia
 498,Greek
 499,Balkans-COMMA- and an important regional investor
 500,Organisation for Economic Co-operation and Development
 501,2000
 502,2001
-503,Ottoman Muslim
+503,January
 504,In
 505,European
 506,European
@@ -511,8 +511,8 @@ id,answer
 510,Additionally
 511,United Kingdom
 512,12.7 million
-513,European
-514,Roman Emperor
+513,Greece
+514,Central Macedonia
 515,12.7 million
 516,International
 517,Filiki Eteria
@@ -564,7 +564,7 @@ id,answer
 563,Afghanistan
 564,Ottoman navy
 565,Ottoman navy
-566,arrivals
+566,9.6%
 567,Slavic–speaking
 568,Greek and Hellenistic
 569,1453
@@ -575,11 +575,11 @@ id,answer
 574,Public
 575,2
 576,Students
-577,Additionally
+577,over twenty-two years
 578,Capodistrian University of Athens
 579,universal health care
 580,World Health Organization
-581,Children
+581,19th
 582,138
 583,138
 584,Mycenaean Greece
@@ -624,12 +624,12 @@ id,answer
 623,Many Greek
 624,times
 625,Athenian
-626,Greek
+626,six
 627,Free Apostolic Church of Pentecost
 628,Byzantine
 629,Greeks
 630,Church
-631,Church
+631,two
 632,Church
 633,:
 634,4
@@ -653,14 +653,14 @@ id,answer
 652,1896
 653,Olympia
 654,Greece
-655,Summer Olympic
-656,European Champions
+655,110
+656,12th
 657,Olympiacos
 658,12th
 659,LEN Cup Winners
 660,Euro
-661,European Championship
-662,world
+661,12th
+662,4th
 663,9
 664,European Championship
 665,Ethniki
@@ -676,13 +676,13 @@ id,answer
 675,Mytikas
 676,Greek
 677,Greek
-678,Greek
+678,Hera
 679,Greek
 680,According
 681,four
 682,According
 683,Ohi Day
-684,a second bail-out
+684,€130 billion
 685,53%
 686,2013
 687,April
@@ -744,7 +744,7 @@ id,answer
 743,Latency
 744,a manner
 745,( Often
-746,operations
+746,In contrast to the speed of compression-COMMA- which is proportional to the number of operations required by the algorithm-COMMA- here latency refers to the number of samples that must be analysed before a block of audio is processed.
 747,latency
 748,LPC
 749,a voltage
@@ -790,7 +790,7 @@ id,answer
 789,Robert Needham Cust
 790,1878
 791,Central Asia
-792,name Dari
+792,Dari
 793,Andronovo
 794,2000
 795,Caucasus
@@ -799,7 +799,7 @@ id,answer
 798,Middle Iranian
 799,Old Iranian
 800,Genuine Old Persian is best attested in one of the three languages of the Behistun inscription-COMMA- composed circa 520 BC-COMMA- and which is the last inscription (and only inscription of significant length) in which Old Persian is still grammatically correct.
-801,BC
+801,8th
 802,Middle Iranian
 803,Persian
 804,Certain
@@ -831,7 +831,7 @@ id,answer
 830,Middle Persian
 831,Saffarid
 832,The Saffarid dynasty in particular was the first in a line of many dynasties to officially adopt the new language in 875 CE.
-833,Dialects of Fars
+833,Isfahan and Azerbaijan
 834,Middle Iranian
 835,This development probably occurred some time during the second half of the 8th century-COMMA- when the old middle Persian script began dwindling in usage.
 836,Tajik
@@ -839,10 +839,10 @@ id,answer
 838,Latinised
 839,Khuzi
 840,Turkic
-841,AD
+841,6th
 842,Caucasus
 843,Old Ossetic
-844,modern-day France
+844,French
 845,West African
 846,Societé de Telecommunications du Mali
 847,African
@@ -852,14 +852,14 @@ id,answer
 851,a coup
 852,three
 853,West African
-854,Tuareg
+854,Northern Mali
 855,Tuareg
 856,Tuareg
 857,French
 858,Presidential
 859,Moroccan
 860,end
-861,late 14th century
+861,late 14th
 862,Judar Pasha
 863,Following
 864,Liberation Day
@@ -893,10 +893,10 @@ id,answer
 892,Economic Community of West African States
 893,Azawad
 894,torrid zone
-895,Aw
-896,Inner Niger Delta
+895,early December
+896,Niger River
 897,Inner Niger Delta
-898,Aw
+898,Mali
 899,1999
 900,a separation
 901,five-year
@@ -918,12 +918,12 @@ id,answer
 917,12
 918,Two
 919,48
-920,45.53 births
-921,16.5 deaths
+920,1-COMMA-000
+921,1-COMMA-000
 922,infant mortality
 923,53.06 years
 924,20th
-925,800-COMMA-000 people
+925,800-COMMA-000
 926,Arabic
 927,Dance
 928,Tamasheq
@@ -935,7 +935,7 @@ id,answer
 934,Efforts
 935,Mali 's health and development indicators
 936,an average exchange rate
-937,62–65 percent
+937,62–65
 938,62–65
 939,French
 940,political turmoil
@@ -957,23 +957,23 @@ id,answer
 956,fishing-COMMA- natural gas-COMMA- and oil industries
 957,The
 958,U.S.
-959,Lower
+959,U.S.
 960,former capital Sitka-COMMA- and Ketchikan
 961,800
-962,Aleutian Islands
+962,Smaller
 963,Tongass National Forest
 964,Juneau
-965,Lower
+965,U.S.
 966,Alaska Purchase
-967,National Petroleum Reserve–Alaska
+967,North America
 968,United States
 969,Inupiat
 970,54-COMMA-720
-971,home
+971,Unimak Island
 972,Russian
 973,Japan 's Mount Fuji
 974,home
-975,petroleum revenues and federal subsidies
+975,Essential Air Service
 976,United States Bureau of Land Management
 977,87 million
 978,87 million
@@ -985,19 +985,19 @@ id,answer
 984,Regional Native
 985,etc.
 986,10
-987,only region
+987,Alaska
 988,Köppen
 989,over 150
 990,large part
 991,a subarctic oceanic climate
-992,Sound
+992,Kotzebue
 993,10
 994,Grover Cleveland
 995,high fatalities and social disruption
 996,1887
 997,Numerous
 998,Athabaskan
-999,Unorganized Borough
+999,Alaska
 1000,Native Alaskans
 1001,17th
 1002,Semyon Dezhnyov
@@ -1007,11 +1007,11 @@ id,answer
 1006,1912
 1007,1906
 1008,Yukon Territory
-1009,Yukon Territory
+1009,Alaska
 1010,January 3
 1011,1946
 1012,Statehood
-1013,Statehood
+1013,Alaska
 1014,July 7
 1015,Good Friday
 1016,Good Friday
@@ -1022,7 +1022,7 @@ id,answer
 1021,Eskimo–Aleut
 1022,Eskimo–Aleut
 1023,2014
-1024,Evangelical Protestants
+1024,100-COMMA-960
 1025,Association of Religion Data Archives
 1026,Pacific Northwest
 1027,Pacific Northwest
@@ -1030,7 +1030,7 @@ id,answer
 1029,Alaskan Natives
 1030,Quaker
 1031,Asian
-1032,nation
+1032,$40-COMMA-042
 1033,nation
 1034,80%
 1035,main export product
@@ -1038,9 +1038,9 @@ id,answer
 1037,Federal
 1038,seafood processing-COMMA- timber and wood products
 1039,Alaskan Natives
-1040,Major
+1040,North Dakota
 1041,Major
-1042,Prudhoe Bay
+1042,North Slope
 1043,400-COMMA-000
 1044,National Petroleum Reserve–Alaska
 1045,330-COMMA-000 m3
@@ -1063,18 +1063,18 @@ id,answer
 1062,$734-COMMA-000
 1063,initial principal
 1064,one
-1065,Alaskans
+1065,$1-COMMA-000
 1066,1976
 1067,$734-COMMA-000
 1068,barley and hay
 1069,southeast of Fairbanks
-1070,governor
+1070,Kenai
 1071,Outside
 1072,pound
-1073,national average
+1073,United States
 1074,1
 1075,Juneau
-1076,communities
+1076,U.S.
 1077,The
 1078,1915
 1079,Also
@@ -1084,7 +1084,7 @@ id,answer
 1083,1970s
 1084,Alaska Marine Highway
 1085,Southeast
-1086,Inter-Island Ferry Authority
+1086,Alaska Peninsula
 1087,Fairbanks
 1088,efficient form
 1089,2 million
@@ -1096,7 +1096,7 @@ id,answer
 1095,Alaskan
 1096,Perhaps
 1097,Lake Hood
-1098,highest number
+1098,U.S.
 1099,an airstrip carry passengers-COMMA- cargo-COMMA- and many items
 1100,a true means
 1101,serum
@@ -1116,7 +1116,7 @@ id,answer
 1115,Republicans
 1116,Democrat
 1117,University of Alaska Fairbanks
-1118,farms
+1118,Delta Junction
 1119,over
 1120,34
 1121,a mechanism
@@ -1124,7 +1124,7 @@ id,answer
 1123,United States Census Bureau
 1124,355
 1125,34%
-1126,The
+1126,United States
 1127,710-COMMA-231
 1128,United States Census Bureau
 1129,Clover Pass
@@ -1137,7 +1137,7 @@ id,answer
 1136,Anchorage Folk Festival
 1137,MGM
 1138,Camp Hollywood
-1139,Upon
+1139,Northwest Alaska
 1140,Hollywood
 1141,The Law of Treaties
 1142,sovereign states and international organizations
@@ -1156,7 +1156,7 @@ id,answer
 1155,secret treaties
 1156,Parliament of India
 1157,a paragraph
-1158,A treaty
+1158,Modern
 1159,A treaty
 1160,contracting
 1161,contracting
@@ -1332,7 +1332,7 @@ id,answer
 1331,international legality
 1332,international legality
 1333,Law of Treaties
-1334,A treaty
+1334,Consent
 1335,A treaty
 1336,Vienna Convention
 1337,Invalidation
@@ -1354,7 +1354,7 @@ id,answer
 1353,International Court of Justice
 1354,UN
 1355,UN
-1356,20th century
+1356,19th and 20th
 1357,DONE
 1358,United Nations
 1359,Office of Legal Affairs
@@ -1382,14 +1382,14 @@ id,answer
 1381,VIII
 1382,United States law
 1383,United States law
-1384,Whereas
+1384,two-thirds
 1385,Senators
 1386,Congress
-1387,United States law
+1387,over
 1388,Despite
 1389,Despite
 1390,Despite
-1391,State
+1391,United States
 1392,Head Money Cases
 1393,Head Money Cases
 1394,Covert
@@ -1456,7 +1456,7 @@ id,answer
 1455,Steven Adler
 1456,Bon Scott
 1457,John Bonham
-1458,Heaven and Hell
+1458,Ronnie James Dio
 1459,The Razors Edge
 1460,Metallica
 1461,1990
@@ -1516,7 +1516,7 @@ id,answer
 1515,Hysteria
 1516,Balance
 1517,Chinese Democracy
-1518,Wasted Youth and Stone Temple Pilots
+1518,Gary Cherone
 1519,Scott Weiland
 1520,1996
 1521,term heavy metal
@@ -1546,15 +1546,15 @@ id,answer
 1545,Chinese Democracy
 1546,College of Charles Towne
 1547,the U.S.
-1548,Atlantic Ocean.
-1549,Atlantic Ocean.
-1550,Atlantic Ocean.
+1548,South Carolina
+1549,South Carolina
+1550,Atlantic Ocean
 1551,the U.S.
-1552,Atlantic Ocean.
-1553,Atlantic Ocean.
+1552,South Carolina
+1553,Atlantic Ocean
 1554,1670
 1555,Charleston accent
-1556,Founded
+1556,Charles II
 1557,North Charleston
 1558,Charleston-North Charleston Urban Area
 1559,1670
@@ -1566,8 +1566,8 @@ id,answer
 1565,Mount Pleasant
 1566,47.9 km2
 1567,United States Census Bureau
-1568,North
-1569,Summer
+1568,Mount Pleasant
+1569,June
 1570,Summer
 1571,Winter
 1572,However
@@ -1575,7 +1575,7 @@ id,answer
 1574,Summer
 1575,Summer
 1576,fall
-1577,104 °F
+1577,St. George 's Parish
 1578,Hurricane Hugo
 1579,104 °F
 1580,Hurricanes
@@ -1599,7 +1599,7 @@ id,answer
 1598,settlers
 1599,Johnson
 1600,Earl
-1601,Ashley and Cooper Rivers
+1601,Ashley River
 1602,Catholics
 1603,1830
 1604,England
@@ -1610,8 +1610,8 @@ id,answer
 1609,six
 1610,Johnson
 1611,Spain and France
-1612,Today
-1613,Africans
+1612,Toni Morrison
+1613,400-COMMA-000
 1614,a bustling trade center
 1615,Africans
 1616,Island
@@ -1623,7 +1623,7 @@ id,answer
 1622,Charles Towne
 1623,1690
 1624,African
-1625,Great Migration
+1625,early 20th
 1626,1708
 1627,Trade
 1628,1-COMMA-250-COMMA-000 deer
@@ -1635,7 +1635,7 @@ id,answer
 1634,1748
 1635,1670
 1636,Africans
-1637,General Sir
+1637,Henry Clinton
 1638,British
 1639,1776
 1640,Loyalists
@@ -1651,8 +1651,8 @@ id,answer
 1650,upland areas-COMMA- and cotton
 1651,Slaves
 1652,3-COMMA-785
-1653,black population-COMMA- and 8 %
-1654,black population-COMMA- and 8 %
+1653,3-COMMA-785
+1654,3-COMMA-785
 1655,1790
 1656,1790
 1657,Haitian Revolution
@@ -1668,10 +1668,10 @@ id,answer
 1667,African American
 1668,African American
 1669,American Missionary Association
-1670,Gaud School
+1670,William T. Sherman
 1671,Arsenal
-1672,city 's population-COMMA- and 73 %
-1673,city 's population-COMMA- and 73 %
+1672,57%
+1673,57%
 1674,Wade Hampton
 1675,1868
 1676,two
@@ -1681,10 +1681,10 @@ id,answer
 1680,September 6
 1681,Republicans
 1682,an earthquake
-1683,an earthquake
+1683,August 31
 1684,August 31
-1685,an earthquake
-1686,6 million worth
+1685,August 31
+1686,2-COMMA-000
 1687,The Military College of South Carolina
 1688,1895
 1689,1889
@@ -1726,7 +1726,7 @@ id,answer
 1725,Daniel J. Jenkins
 1726,New Orleans
 1727,Theodore Roosevelt and William Taft
-1728,Porgy
+1728,Theodore Roosevelt and William Taft
 1729,Porgy and Bess
 1730,Charleston
 1731,1934
@@ -1740,33 +1740,33 @@ id,answer
 1739,137
 1740,Greg Mullen
 1741,2005
-1742,MUSC
+1742,Charleston
 1743,North Charleston
 1744,North Charleston
 1745,Additionally
 1746,Medical University of South Carolina Medical Center
-1747,John 's Island section
+1747,South Carolina
 1748,North Charleston
 1749,City
 1750,John 's Island
-1751,adjacent Charleston Air Force Base
-1752,Great American Opera
-1753,Meeting Street
-1754,Meeting Street
+1751,Charleston Air Force Base
+1752,Bess
+1753,78
+1754,King Street
 1755,African
-1756,Highway
+1756,Jr. Bridge
 1757,2005
 1758,The
 1759,1929
 1760,1929
-1761,Meeting Street
+1761,Cooper River
 1762,150 years
 1763,Roman Catholic Diocese of Charleston Office of Education
 1764,Porter-Gaud School
 1765,Roman Catholic Diocese of Charleston Office of Education
 1766,Roman Catholic Diocese of Charleston Office of Education
 1767,Roman Catholic Diocese of Charleston Office of Education
-1768,The Citadel
+1768,Charleston
 1769,North Market Street
 1770,2007
 1771,The American College
@@ -1791,7 +1791,7 @@ id,answer
 1790,1808
 1791,Piedmont
 1792,1739 and 1761
-1793,Men
+1793,26%
 1794,Republican Party
 1795,Republican Party
 1796,Confederacy
@@ -1819,7 +1819,7 @@ id,answer
 1818,Standard Russian
 1819,over
 1820,over
-1821,Command of Russian
+1821,15 and 19
 1822,25.5%
 1823,1809
 1824,1809
@@ -1833,8 +1833,8 @@ id,answer
 1832,Framework Convention
 1833,Warsaw Pact
 1834,USSR
-1835,Russian
-1836,ethnic enclaves
+1835,Poland
+1836,Russia
 1837,over
 1838,21-COMMA-639
 1839,over
@@ -1857,7 +1857,7 @@ id,answer
 1856,Alaska
 1857,1700s
 1858,1867
-1859,Large
+1859,25.6%
 1860,Russian
 1861,1975
 1862,Apollo-Soyuz mission
@@ -1874,12 +1874,12 @@ id,answer
 1873,Russian
 1874,Bulgarian and Macedonian
 1875,Stressed
-1876,Northern Russian
+1876,Belarus
 1877,Southern Russian
 1878,Standard Russian
 1879,Eastern Polesian
 1880,Vladimir Dal
-1881,dialectal vocabulary
+1881,19th
 1882,2012
 1883,CP1251
 1884,times
@@ -1913,7 +1913,7 @@ id,answer
 1912,/t-COMMA- d-COMMA- ts-COMMA- s-COMMA- z-COMMA- n and rʲ/
 1913,1000
 1914,It is a lineal descendant of the language used in Kievan Rus'.
-1915,Old East Slavic
+1915,Russia
 1916,Old East Slavic
 1917,It is a lineal descendant of the language used in Kievan Rus'.
 1918,Western Europe
@@ -1973,7 +1973,7 @@ id,answer
 1972,eight
 1973,1415
 1974,18th century
-1975,town
+1975,Belp
 1976,Käfigturm
 1977,Bernese German
 1978,War
@@ -1982,7 +1982,7 @@ id,answer
 1981,1798
 1982,French Revolutionary Wars
 1983,1802
-1984,new housing units
+1984,Bernese Jura
 1985,1979
 1986,First and Second Internationals
 1987,Bern International
@@ -1992,7 +1992,7 @@ id,answer
 1991,Gurten
 1992,University of Applied Sciences
 1993,University of Applied Sciences
-1994,River Aare
+1994,19th
 1995,uneven ground
 1996,Aare
 1997,Aare
@@ -2030,17 +2030,17 @@ id,answer
 2029,15.1%
 2030,1-COMMA-874
 2031,15.1%
-2032,36 municipalities
+2032,36
 2033,59-COMMA-948
 2034,59-COMMA-948
 2035,9-COMMA-345
 2036,As of 2000[update]-COMMA- there were 59-COMMA-948 people who were single and never married in the municipality.
 2037,1.8 persons
 2038,34-COMMA-981
-2039,[ update ]
+2039,65-COMMA-538
 2040,65-COMMA-538
 2041,99.4%
-2042,[ update ]
+2042,0.45%
 2043,24.5%
 2044,0.25%
 2045,around
@@ -2054,7 +2054,7 @@ id,answer
 2053,Länggasse quarter
 2054,parliament
 2055,Switzerland
-2056,Russian
+2056,Dählhölzli
 2057,Bundeshaus
 2058,Bundeshaus
 2059,Kramgasse
@@ -2109,7 +2109,7 @@ id,answer
 2108,9-COMMA-045
 2109,Belpmoos
 2110,106
-2111,Marzilibahn
+2111,348
 2112,Marzilibahn
 2113,Basel-Mulhouse-Freiburg
 2114,Belpmoos
@@ -2124,7 +2124,7 @@ id,answer
 2123,The English term comics is used as a singular noun when it refers to the medium and a plural when referring to particular instances-COMMA- such as individual strips or comic books.
 2124,use
 2125,European
-2126,graphic novels
+2126,Thin
 2127,Gag
 2128,Gag
 2129,1890s
@@ -2136,7 +2136,7 @@ id,answer
 2135,The Glasgow Looking Glass
 2136,1825
 2137,The Glasgow Looking Glass
-2138,sequences
+2138,Ally Sloper
 2139,1884
 2140,Following
 2141,European
@@ -2224,7 +2224,7 @@ id,answer
 2223,Töpffer
 2224,kibyōshi
 2225,Thierry Groensteen and Scott McCloud
-2226,Towards
+2226,20th
 2227,Rodolphe Töpffer
 2228,Henri Vanlier
 2229,Pierre Fresnault-Deruelle
@@ -2263,7 +2263,7 @@ id,answer
 2262,1939
 2263,New York
 2264,Launching
-2265,Timely
+2265,years
 2266,Joe Simon
 2267,Joe Simon
 2268,Bill Everett
@@ -2277,13 +2277,13 @@ id,answer
 2276,1997
 2277,Marvel Mystery Comics
 2278,various magazines and comic books
-2279,Captain America
+2279,Stan Lee
 2280,EC
 2281,Homer
 2282,Homer
 2283,Homer Hooper
 2284,Joe Simon
-2285,Human Torch
+2285,1
 2286,Hulk
 2287,Avengers
 2288,Shooter
@@ -2313,7 +2313,7 @@ id,answer
 2312,United States Department of Health
 2313,Western
 2314,Heroes Reborn
-2315,Star Wars
+2315,Marvel
 2316,1970
 2317,Homer
 2318,Launching
@@ -2322,7 +2322,7 @@ id,answer
 2321,Perfect Film and Chemical Corporation
 2322,mid-1970s
 2323,Marvelcon
-2324,Fantastic Four
+2324,Stan Lee
 2325,British
 2326,1961
 2327,1939
@@ -2353,8 +2353,8 @@ id,answer
 2352,Mary Jane
 2353,Curtis Circulation Company
 2354,2013
-2355,a hit
-2356,American
+2355,one million
+2356,over 80%
 2357,Hachette Distribution Services
 2358,2012
 2359,Marvel ReEvolution
@@ -2376,7 +2376,7 @@ id,answer
 2375,Disney
 2376,Guardians
 2377,Marvel
-2378,Slavs
+2378,Germany
 2379,Germany
 2380,Luftwaffe
 2381,Stalin
@@ -2384,13 +2384,13 @@ id,answer
 2383,San river
 2384,Winter War
 2385,Polish
-2386,Bolsheviks
+2386,Finland
 2387,Polish
 2388,1917–22
 2389,Jews
 2390,Germans
 2391,significant resource problems
-2392,German
+2392,Czechoslovakia
 2393,Soviet
 2394,stated clauses
 2395,British
@@ -2401,7 +2401,7 @@ id,answer
 2400,Przemyśl
 2401,The Soviet Government
 2402,Germany
-2403,an agreement
+2403,Tripartite Pact
 2404,European
 2405,Molotov
 2406,Germany
@@ -2411,13 +2411,13 @@ id,answer
 2410,German
 2411,German and Soviet
 2412,mid-July
-2413,USSR
+2413,Munich
 2414,Molotov
 2415,7.5 million
 2416,1939
 2417,Lithuania
 2418,Lithuania
-2419,San
+2419,Germany
 2420,East Prussia
 2421,Moscow
 2422,German
@@ -2443,11 +2443,11 @@ id,answer
 2442,Nikita Khrushchev
 2443,10%
 2444,Ribbentrop
-2445,Soviet
+2445,Hertza
 2446,Soviet
 2447,Moldovan ASSR
 2448,Soviet
-2449,Soviets
+2449,over three
 2450,Two
 2451,The stated clauses of the Nazi-Soviet non-aggression pact were a guarantee of non-belligerence by each party towards the other-COMMA- and a written commitment that neither party would ally itself to-COMMA- or aid-COMMA- an enemy of the other party.
 2452,two
@@ -2507,7 +2507,7 @@ id,answer
 2506,Foreign Office
 2507,Marburg
 2508,Secret Protocol
-2509,German–Soviet
+2509,Hitler
 2510,London
 2511,Raymond J. Sontag and James S. Beddie
 2512,World War I
@@ -2515,7 +2515,7 @@ id,answer
 2514,German–Soviet
 2515,fall
 2516,Soviets
-2517,pact parties
+2517,Geoffrey Roberts
 2518,Pravda and Izvestia
 2519,Molotov
 2520,Molotov
@@ -2528,12 +2528,12 @@ id,answer
 2527,The
 2528,Suvorov
 2529,1955
-2530,other member states
+2530,Romania and Albania
 2531,Warsaw Pact
 2532,European
 2533,Soviet Union
 2534,NATO
-2535,NATO
+2535,Romania and Albania
 2536,Solidarity
 2537,Czechoslovakia
 2538,1989
@@ -2541,7 +2541,7 @@ id,answer
 2540,Hungary
 2541,Václav Havel
 2542,East Germany and Poland
-2543,Combined Command of Pact Armed Forces
+2543,Romania and Albania
 2544,Warsaw Pact
 2545,Ideologically
 2546,Geostrategic
@@ -2549,21 +2549,21 @@ id,answer
 2548,USSR
 2549,Germany
 2550,1952
-2551,European Treaty
+2551,Europe
 2552,USA
 2553,Emblematic
 2554,1954
 2555,Warsaw Pact
 2556,1955
 2557,Foreign Affairs Minister
-2558,Czechoslovak President
-2559,German
+2558,1 July
+2559,Romania and Albania
 2560,West Germany
 2561,European
 2562,1966
 2563,1966
 2564,Cold War
-2565,Soviet
+2565,West Germany
 2566,1991
 2567,Soviet
 2568,1968
@@ -2584,8 +2584,8 @@ id,answer
 2583,−89.2 °C
 2584,5-COMMA-000
 2585,Organisms
-2586,coldest-COMMA- driest-COMMA- and windiest continent
-2587,a desert
+2586,Antarctica
+2587,200 mm
 2588,−89.2
 2589,Earth
 2590,coldest-COMMA- driest-COMMA- and windiest continent
@@ -2594,7 +2594,7 @@ id,answer
 2593,Mesozoic
 2594,Jurassic
 2595,Mars
-2596,anomalous area
+2596,West Antarctica
 2597,Paleozoic
 2598,The Antarctic Peninsula was formed by uplift and metamorphism of sea bed sediments during the late Paleozoic and the early Mesozoic eras.
 2599,Sunburn
@@ -2611,7 +2611,7 @@ id,answer
 2610,2010
 2611,235
 2612,Antarctic
-2613,Various
+2613,5
 2614,Norwegian
 2615,Ernest Shackleton
 2616,Douglas Mawson
@@ -2634,12 +2634,12 @@ id,answer
 2633,Ross Sea
 2634,International Polar Foundation
 2635,$16.3 million
-2636,International Polar Foundation
+2636,6 September
 2637,Many
 2638,Johan Berte
 2639,Melting
 2640,S
-2641,Recent
+2641,Antarctic Peninsula
 2642,However
 2643,local mass balance
 2644,Endemic Antarctic
@@ -2662,32 +2662,32 @@ id,answer
 2661,Brunt Ice Shelf
 2662,mining
 2663,Permian
-2664,sandstones-COMMA- limestones and shales
+2664,Northern Hemisphere
 2665,Gondwana
 2666,Glaciation
 2667,South Pole
-2668,coldest
+2668,1
 2669,highest peak
-2670,Positioned
+2670,Antarctic Circle
 2671,late 17th
 2672,98%
 2673,Antarctica
 2674,Earth
-2675,Earth 's continents
+2675,−89.2
 2676,West Antarctica
 2677,CFCs
 2678,Aristotle
 2679,A.D. The Roman
 2680,A.D. The Roman
 2681,Middle English
-2682,Meteorology
+2682,Aristotle
 2683,a wider area
 2684,over
 2685,UV
 2686,effect
 2687,scientific studies
 2688,Elisabeth
-2689,350 inhabitants
+2689,The number of people conducting and supporting scientific research and other work on the continent and its nearby islands varies from about 1-COMMA-000 in winter to about 5-COMMA-000 in the summer-COMMA- giving it a population density between 70 and 350 inhabitants per million square kilometres (180 and 900 per million square miles) at these times.
 2690,Given
 2691,Russian Bellingshausen Station—is
 2692,2004
@@ -2695,16 +2695,16 @@ id,answer
 2694,14-COMMA-000-COMMA-000 square
 2695,Earth 's continents
 2696,1-COMMA-300
-2697,marine animals
-2698,Adélie
+2697,Managers
+2698,winter
 2699,Adélie
 2700,distinctive feathers
 2701,Adélie
 2702,4-COMMA-892 m
 2703,Ellsworth Mountains
-2704,highest peak
+2704,Ellsworth Mountains
 2705,American and Canadian
-2706,Earth 's continents
+2706,1
 2707,1983
 2708,1983
 2709,Greenpeace International
@@ -2720,7 +2720,7 @@ id,answer
 2719,1912
 2720,Japanese
 2721,New
-2722,Due
+2722,South Pole
 2723,adaptations
 2724,continent
 2725,dry ice snow
@@ -2769,8 +2769,8 @@ id,answer
 2768,1
 2769,a sheet
 2770,90%
-2771,continent
-2772,Lake Vostok 's waters
+2771,0.8
+2772,Lake Vostok
 2773,lake shares similarities
 2774,Jupiter 's moon
 2775,2008
@@ -2836,12 +2836,12 @@ id,answer
 2835,Quaker
 2836,support
 2837,Baptist
-2838,Baptist
+2838,New England
 2839,1773
 2840,1786
 2841,William Penn
 2842,The Bloody Tenent of Persecution
-2843,Baptist
+2843,Rhode Island
 2844,1644
 2845,Thomas Jefferson
 2846,Jefferson and James Madison
@@ -2879,7 +2879,7 @@ id,answer
 2878,The
 2879,The
 2880,a faith
-2881,Congress
+2881,Madison
 2882,House
 2883,British
 2884,Elbridge Gerry
@@ -2910,7 +2910,7 @@ id,answer
 2909,First Amendment
 2910,effects
 2911,Justice Hugo Black
-2912,United States Court of Appeals
+2912,Mercer County
 2913,Justice Hugo Black
 2914,State
 2915,Writing
@@ -2929,7 +2929,7 @@ id,answer
 2928,Establishment Clause
 2929,Supreme Court
 2930,1971
-2931,Catholic Church
+2931,Pennsylvania
 2932,Kurtzman
 2933,Establishment Clause
 2934,Our
@@ -2975,10 +2975,10 @@ id,answer
 2974,Christmas
 2975,In God We Trust
 2976,In God We Trust
-2977,With God
+2977,Ohio
 2978,Bible
 2979,2001
-2980,a constitutional ban
+2980,United States Supreme Court
 2981,aid
 2982,two
 2983,no-aid position
@@ -2990,7 +2990,7 @@ id,answer
 2989,American and Nativism
 2990,American and Nativism
 2991,American and Nativism
-2992,Blaine Amendments
+2992,U.S.
 2993,J. Brent Walker
 2994,Executive Director
 2995,Champions
@@ -3170,11 +3170,11 @@ id,answer
 3169,Fertilization
 3170,rest care
 3171,a spiral pattern
-3172,Latin
-3173,21:41 Paul
+3172,I
+3173,21:41
 3174,1965
 3175,1958
-3176,Upon
+3176,Montini
 3177,Marian
 3178,Paul VI
 3179,1605
@@ -3188,7 +3188,7 @@ id,answer
 3187,1916
 3188,Canon Law
 3189,Milan
-3190,Secretariat of State
+3190,twenty-five
 3191,Afterwards
 3192,oxygen
 3193,This
@@ -3216,7 +3216,7 @@ id,answer
 3215,empathy-COMMA- and understanding
 3216,Axis
 3217,1954
-3218,new tasks
+3218,Secretariat of State
 3219,1955
 3220,St. Peter 's Basilica
 3221,Milan
@@ -3261,13 +3261,13 @@ id,answer
 3260,Council Fathers
 3261,a dialogue
 3262,29 September
-3263,Six
+3263,29 September
 3264,Vatican II
 3265,Synod of Bishops
 3266,Mystici
 3267,Catholic Church
 3268,Mass
-3269,Council Fathers
+3269,Rome
 3270,Catholic Church
 3271,Council Fathers
 3272,Council
@@ -3284,9 +3284,9 @@ id,answer
 3283,Pius XII
 3284,Pope
 3285,Canon Law
-3286,papal elections
-3287,Pope
-3288,Kings
+3286,College of Cardinals
+3287,80
+3288,80
 3289,75th year
 3290,1966
 3291,Latin
@@ -3307,7 +3307,7 @@ id,answer
 3306,1976
 3307,Montini
 3308,New York Times
-3309,a crowd
+3309,April 18
 3310,Pius XII
 3311,six
 3312,Pope
@@ -3319,7 +3319,7 @@ id,answer
 3318,UN
 3319,President
 3320,Pope
-3321,Vatican
+3321,Council
 3322,Pius XII
 3323,Gaudium
 3324,Humanae
@@ -3327,7 +3327,7 @@ id,answer
 3326,Council
 3327,Council
 3328,Ecclesiam
-3329,liturgical feast day
+3329,26 September
 3330,Saint
 3331,Roman Catholic
 3332,Celibacy
@@ -3351,15 +3351,15 @@ id,answer
 3350,Colombia
 3351,Edouard Gagnon
 3352,Pope
-3353,Humanae
-3354,Of Human Life
+3353,John Paul II
+3354,John Paul II
 3355,negative reaction
 3356,Brazil
 3357,two
 3358,Council
 3359,one
-3360,Do
-3361,Italy-COMMA- Spain-COMMA- Portugal and Poland
+3360,Paul VI
+3361,Council Fathers
 3362,1965
 3363,Rome
 3364,Shenouda III
@@ -3416,7 +3416,7 @@ id,answer
 3415,John Paul II and Benedict XVI
 3416,internationalization policies
 3417,Pope
-3418,The
+3418,John XXIII
 3419,Vatican
 3420,Catholic Church
 3421,Catholic Church
@@ -3440,10 +3440,10 @@ id,answer
 3439,Paul VI
 3440,Catholic Church
 3441,Synod of Bishops
-3442,door and heart
+3442,Papal Residence Castel Gandolfo
 3443,Achaemenid Empire
 3444,Achaemenid Empire
-3445,Sarazm
+3445,People
 3446,1991
 3447,1927 and 1934
 3448,Oxus
@@ -3475,11 +3475,11 @@ id,answer
 3474,regime
 3475,coverage
 3476,Institute for War & Peace Reporting
-3477,smallest nation
-3478,Pamir range
+3477,Tajikistan
+3478,over 3-COMMA-000
 3479,southwest of Dushanbe
 3480,Tajikistan
-3481,9-COMMA-800 ft
+3481,Pamir
 3482,Tajikistan
 3483,Land
 3484,Persian
@@ -3539,20 +3539,20 @@ id,answer
 3538,BCE
 3539,BCE
 3540,BCE
-3541,Buddhism
+3541,Yuezhi
 3542,2009
 3543,Arabs
 3544,Manichaeism
-3545,World Bank
-3546,aluminium production-COMMA- cotton growing and remittances
-3547,Cotton
+3545,9.6% over
+3546,USSR
+3547,75%
 3548,Tajik Aluminum Company
 3549,Panj
 3550,Panj
 3551,Nurek Dam
 3552,MW
 3553,$1.25
-3554,US
+3554,$2.1 billion
 3555,Tajikistan 's economy
 3556,World Bank Tajikistan Policy Note
 3557,Western European
@@ -3560,8 +3560,8 @@ id,answer
 3559,raw opium
 3560,Tajikistani Drug Control Agency
 3561,roads-COMMA- air-COMMA- and rail
-3562,roads-COMMA- air-COMMA- and rail
-3563,Tajikistan-COMMA- Pakistan-COMMA- and Afghanistan
+3562,Afghanistan
+3563,Pakistan
 3564,2012
 3565,26
 3566,Dushanbe International Airport
@@ -3604,7 +3604,7 @@ id,answer
 3603,Moses of Chorene
 3604,Xenophon
 3605,Persians
-3606,Assyrian
+3606,Georgia and Azerbaijan
 3607,1600–1200
 3608,1600–1200
 3609,1300s–1190
@@ -3637,7 +3637,7 @@ id,answer
 3636,World War I
 3637,1920
 3638,Red Army
-3639,independence
+3639,Republic of Armenia
 3640,1991
 3641,around 5 million
 3642,Hayk
@@ -3674,7 +3674,7 @@ id,answer
 3673,Moses of Chorene
 3674,Constantinople and Tiflis
 3675,The early churches were mostly simple basilicas-COMMA- but some with side apses.
-3676,typical cupola cone
+3676,late 6th
 3677,Hrip'simé
 3678,By the fifth century the typical cupola cone in the center had become widely used.
 3679,By the seventh century-COMMA- centrally planned churches had been built and a more complicated niched buttress and radiating Hrip'simé style had formed.
@@ -3725,7 +3725,7 @@ id,answer
 3724,IndyMac Bank
 3725,2008
 3726,Moody
-3727,Moody
+3727,$160 million
 3728,Moody
 3729,IndyMac
 3730,Charles Schumer
@@ -3735,14 +3735,14 @@ id,answer
 3734,$500 million
 3735,$1.55 billion
 3736,$1.55 billion
-3737,financial crisis
+3737,$10.7 billion
 3738,Charles Schumer
 3739,IndyMac’s
 3740,FSB
-3741,U.S.
+3741,50%
 3742,50%
-3743,IndyMac Bancorp
-3744,IndyMac Bancorp
+3743,July 11
+3744,July 14
 3745,100
 3746,Bear Stearns
 3747,2008
@@ -3758,7 +3758,7 @@ id,answer
 3757,reduction
 3758,U.S. Treasury Secretary
 3759,one-third
-3760,shadow banking system
+3760,Federal Reserve
 3761,According
 3762,an artifact
 3763,According
@@ -3778,8 +3778,8 @@ id,answer
 3777,Iceland’s
 3778,They
 3779,December
-3780,Euro
-3781,Euro
+3780,14.4%
+3781,14.4%
 3782,U.S.
 3783,U.S. Federal Reserve
 3784,example
@@ -3794,7 +3794,7 @@ id,answer
 3793,global economic crisis
 3794,10.1 %
 3795,33
-3796,fourth quarter
+3796,6%
 3797,U.S. unemployment rate
 3798,term financial innovation refers
 3799,European
@@ -3806,7 +3806,7 @@ id,answer
 3805,2007
 3806,2008
 3807,The Banking Crisis Is Over.
-3808,United States Financial Crisis Inquiry Commission
+3808,January 27
 3809,Advanced
 3810,31%
 3811,International Monetary Fund
@@ -3830,7 +3830,7 @@ id,answer
 3829,over 20%
 3830,mid-2006
 3831,1.3 million
-3832,79 %
+3832,79%
 3833,9.2%
 3834,over $ 180 billion
 3835,Securities
@@ -3838,7 +3838,7 @@ id,answer
 3837,Moreover
 3838,Federal Reserve
 3839,$650 billion
-3840,a capital account
+3840,$650 billion
 3841,`` The
 3842,payments identity
 3843,U.S.
@@ -3867,7 +3867,7 @@ id,answer
 3866,ARMs
 3867,Office of Thrift Supervision
 3868,Countrywide Financial
-3869,Critics
+3869,Paul Krugman
 3870,Timothy Geithner
 3871,OECD
 3872,U.S. Treasury Secretary
@@ -3892,22 +3892,22 @@ id,answer
 3891,turn
 3892,Portfolio Magazine
 3893,balance sheet deleveraging
-3894,particular client objectives
+3894,Has Financial Development Made
 3895,MBS
 3896,CDS
 3897,loans
 3898,ongoing development
 3899,2004
-3900,Banks
-3901,CDOs
+3900,$20 billion
+3901,$20 billion
 3902,5%
-3903,Banks
+3903,$20 billion
 3904,books
 3905,boom
 3906,FICO
 3907,FICO
 3908,2005
-3909,risk refers
+3909,CDOs
 3910,pricing
 3911,Financial Crisis Inquiry Commission
 3912,Federal Reserve
@@ -3942,9 +3942,9 @@ id,answer
 3941,years
 3942,Brookings Institution
 3943,June
-3944,The
+3944,Mark Zandi
 3945,Economist
-3946,Total
+3946,$13
 3947,In
 3948,In
 3949,Rapid
@@ -3974,15 +3974,15 @@ id,answer
 3973,BusinessWeek
 3974,Great Depression
 3975,Wharton School of the University of Pennsylvania
-3976,Taleb
-3977,The Guardian
+3976,Nouriel Roubini
+3977,Nouriel Roubini
 3978,Nassim Nicholas Taleb
-3979,According
+3979,David Brooks
 3980,The Black Swan
 3981,They
 3982,Phil Dow
 3983,50% over
-3984,Market
+3984,fall
 3985,Floyd Norris
 3986,One
 3987,Countrywide Financial
@@ -4008,7 +4008,7 @@ id,answer
 4007,addition
 4008,Nobel
 4009,Nobel
-4010,U.S. Federal Reserve
+4010,around
 4011,credit freeze
 4012,$2.5
 4013,$1.5
@@ -4025,7 +4025,7 @@ id,answer
 4024,Senate
 4025,banks
 4026,June
-4027,BNP Paribas
+4027,August 9
 4028,2009
 4029,BNP Paribas
 4030,2004
@@ -4074,16 +4074,16 @@ id,answer
 4073,GSE
 4074,4
 4075,13 million
-4076,SEC
+4076,over $ 2
 4077,Fannie Mae and Freddie Mac
 4078,American Enterprise Institute
 4079,6
 4080,Merrill Lynch
 4081,Office of Federal Housing Enterprise Oversight
-4082,Office of Federal Housing Enterprise Oversight
+4082,September 10
 4083,Fannie Mae and Freddie Mac
 4084,Fannie Mae and Freddie Mac
-4085,CRA
+4085,$467 billion
 4086,$467 billion
 4087,Federal Reserve Bank of Dallas
 4088,3%
@@ -4110,8 +4110,8 @@ id,answer
 4109,1836
 4110,Allen
 4111,June 5
-4112,Battle
-4113,forty-nine percent
+4112,Sam Houston
+4113,forty-nine
 4114,58-COMMA-000
 4115,World War II
 4116,Much
@@ -4132,7 +4132,7 @@ id,answer
 4131,efforts
 4132,1986
 4133,Space Shuttle Challenger
-4134,water rights
+4134,miles
 4135,Rocky Mountains
 4136,oil and natural gas
 4137,Beneath
@@ -4211,7 +4211,7 @@ id,answer
 4210,MD Anderson Cancer Center
 4211,1-COMMA-953-COMMA-631
 4212,i/ˈhjuːstən/ HYOO-stən
-4213,subsidence
+4213,Buffalo Bayou
 4214,city
 4215,Westpark Tollway
 4216,American Civil War
@@ -4223,7 +4223,7 @@ id,answer
 4222,Hurricane Rita
 4223,2008
 4224,Though
-4225,Though
+4225,United States
 4226,Though
 4227,September
 4228,42-COMMA-697
@@ -4232,7 +4232,7 @@ id,answer
 4231,United States
 4232,United States
 4233,point
-4234,Theater District
+4234,Houston Symphony Orchestra and Society
 4235,Theater District
 4236,arts organizations and six performance
 4237,artists-COMMA- art groups and various small progressive arts organizations
@@ -4251,7 +4251,7 @@ id,answer
 4250,The University of St. Thomas
 4251,James A. Baker Institute for Public Policy
 4252,1960
-4253,Baptist General Convention
+4253,Texas
 4254,Johnson Space Center
 4255,49
 4256,73-COMMA-600
@@ -4263,12 +4263,12 @@ id,answer
 4262,700
 4263,2007
 4264,New York City
-4265,Port
+4265,United States
 4266,Houston–The Woodlands–Sugar Land MSA
 4267,city 's population
 4268,Houston
 4269,contrast
-4270,Intercontinental Airport
+4270,January
 4271,Allen—from
 4272,1940
 4273,106.5
@@ -4282,10 +4282,10 @@ id,answer
 4281,1836
 4282,United States Department of Transportation
 4283,General
-4284,i/ˈhjuːstən/ HYOO-stən
-4285,international community
+4284,Southeast Texas
+4285,Texas
 4286,1-COMMA-953-COMMA-631
-4287,residents
+4287,two-thirds
 4288,five
 4289,a viable deep-water port
 4290,Texas
@@ -4308,10 +4308,10 @@ id,answer
 4307,62
 4308,68
 4309,51%
-4310,a large part
+4310,23-COMMA-929
 4311,Asians
 4312,51%
-4313,Hispanics
+4313,30.8%
 4314,Houston–The Woodlands–Sugar Land MSA
 4315,United States
 4316,26
@@ -4325,34 +4325,34 @@ id,answer
 4324,U.S.
 4325,two
 4326,100
-4327,Also
+4327,Best Cities for College Graduates
 4328,U.S. Bureau of Statistics
 4329,Houston Community College System
 4330,Houston Community College and Lone Star College
 4331,San Jacinto College
-4332,San Jacinto College
-4333,Lone Star College System
+4332,Houston
+4333,Republic of Texas
 4334,2004
 4335,January 1
 4336,NRG Park
 4337,January 1
 4338,20-COMMA-327
-4339,San Jacinto College
+4339,Hobby Airport
 4340,second-largest commercial airport
 4341,1967
 4342,second-largest commercial airport
 4343,Airports Council International
 4344,over 150
-4345,an aggregate length
+4345,over 150
 4346,Land
 4347,city
-4348,a smooth rate
+4348,over 150
 4349,ward system
-4350,106.5
+4350,Houston
 4351,180 miles
 4352,World War II
 4353,180 miles
-4354,Centered
+4354,Uptown District
 4355,The Gerald D. Hines Waterwall Park—located in the Uptown District of the city—serves as a popular tourist attraction-COMMA- weddings-COMMA- and various celebrations.
 4356,Texas
 4357,2-COMMA-100-COMMA-000
@@ -4374,7 +4374,7 @@ id,answer
 4373,2005
 4374,14
 4375,nine and five
-4376,entire city
+4376,Houston City Council
 4377,16
 4378,14
 4379,40-COMMA-000
@@ -4389,9 +4389,9 @@ id,answer
 4388,Houston Chronicle
 4389,a hub-and-spoke freeway structure
 4390,Interstate
-4391,Interstate
-4392,Houston 's highway system
-4393,Texas Medical Center
+4391,13
+4392,Sam Houston Tollway
+4393,23 miles
 4394,IAH
 4395,IAH
 4396,2006
@@ -4429,12 +4429,12 @@ id,answer
 4428,German
 4429,German
 4430,Alps
-4431,mountain peaks
+4431,2.5
 4432,1-COMMA-200
 4433,greatest alpine territory
 4434,Rhone
 4435,Austria and Slovenia
-4436,Swiss and Italian
+4436,Aosta Valley
 4437,Eastern Alps
 4438,Stefan Schmid
 4439,Splügen Pass
@@ -4443,7 +4443,7 @@ id,answer
 4442,Western Alps and Eastern Alps
 4443,4-COMMA-049 metres
 4444,France
-4445,French Prealps
+4445,Switzerland and France
 4446,Alps
 4447,Upon
 4448,pilgrims-COMMA- students and tourists
@@ -4452,7 +4452,7 @@ id,answer
 4451,Col
 4452,Crossing
 4453,14th
-4454,colline zone
+4454,985
 4455,Napoleon Bonaparte
 4456,Europe
 4457,Important
@@ -4477,7 +4477,7 @@ id,answer
 4476,According to geologist Stefan Schmid-COMMA- because the Western Alps underwent a metamorphic event in the Cenozoic Era while the Austroalpine peaks underwent an event in the Cretaceous Period-COMMA- the two areas show distinct differences in nappe formations.
 4477,Cenozoic Era
 4478,Flysch deposits in the Southern Alps of Lombardy probably occurred in the Cretaceous or later.
-4479,Houillière
+4479,Italy and Switzerland
 4480,Neogene Period
 4481,High massifs with external sedimentary cover are more common in the Western Alps and were affected by Neogene Period thin-skinned thrusting whereas the Eastern Alps have comparatively few high peaked massifs.
 4482,European
@@ -4504,7 +4504,7 @@ id,answer
 4503,Hallstatt
 4504,Celtic
 4505,Erzberg
-4506,cinnabar pigments
+4506,Slovenia
 4507,years
 4508,Alpine crystals have been studied and collected for hundreds of years-COMMA- and began to be classified in the 18th century.
 4509,Leonhard Euler
@@ -4516,7 +4516,7 @@ id,answer
 4515,Alps
 4516,Unteraar Glacier
 4517,100
-4518,100 m
+4518,Moraines
 4519,Inn
 4520,Eroded
 4521,Eroded
@@ -4540,7 +4540,7 @@ id,answer
 4539,over 500
 4540,Switzerland
 4541,Alps
-4542,Rhone
+4542,Mediterranean Sea
 4543,Nile
 4544,Switzerland
 4545,Germany
@@ -4548,20 +4548,20 @@ id,answer
 4547,Swiss
 4548,Scientists
 4549,year
-4550,year
+4550,over 500
 4551,Alps
 4552,Alpine
 4553,adiabatic lapse rate
 4554,Alps
 4555,The severe weather in the Alps has been studied since the 18th century; particularly the weather patterns such as the seasonal foehn wind.
-4556,18th century
+4556,Alps
 4557,Numerous
 4558,Italy
 4559,Switzerland
-4560,high precipitation experience
-4561,a low
+4560,Tributary
+4561,2-COMMA-600 mm
 4562,Alps
-4563,9-COMMA-843 ft
+4563,1-COMMA-000 and 3-COMMA-000
 4564,five
 4565,colline zone
 4566,Semmering
@@ -4575,7 +4575,7 @@ id,answer
 4574,chief deciduous trees—oak-COMMA- beech-COMMA- ash and sycamore maple
 4575,Pinus
 4576,Although
-4577,tree line
+4577,UIAA
 4578,regional fluctuations
 4579,Alpine
 4580,Illyrian
@@ -4624,8 +4624,8 @@ id,answer
 4623,1991
 4624,Ötzi
 4625,1000
-4626,ibex live
-4627,Raetians
+4626,Helvetii
+4627,Rhone
 4628,Hallstatt
 4629,Celts
 4630,During the Second Punic War in 218 BC-COMMA- the Carthaginian general Hannibal probably crossed the Alps with an army numbering 38-COMMA-000 infantry-COMMA- 8-COMMA-000 cavalry-COMMA- and 37 war elephants.
@@ -4635,10 +4635,10 @@ id,answer
 4634,Roman
 4635,The Roman expansion brought the defeat of the Allobrogi in 121 BC and during the Gallic Wars in 58 BC Julius Caesar overcame the Helvetii.
 4636,The Roman expansion brought the defeat of the Allobrogi in 121 BC and during the Gallic Wars in 58 BC Julius Caesar overcame the Helvetii.
-4637,Germanic
+4637,Bavarii
 4638,Romans
 4639,Alps
-4640,Gothic
+4640,Italy
 4641,Chillon
 4642,House of Savoy
 4643,Italy
@@ -4672,7 +4672,7 @@ id,answer
 4671,Albrecht von Haller
 4672,After the end of the Napoleonic Wars-COMMA- the Alpine countries began to see an influx of poets-COMMA- artists-COMMA- and musicians-COMMA- as visitors came to experience the sublime effects of monumental nature.
 4673,Napoleonic Wars
-4674,Byron
+4674,Geneva
 4675,Mont Blanc
 4676,By the mid-19th century scientists began to arrive en masse to study the geology and ecology of the region.
 4677,Alps
@@ -4703,9 +4703,9 @@ id,answer
 4702,Hahnenkamm
 4703,Alpine festivals vary from country to country and often include the display of local costumes such as dirndl and trachten-COMMA- the playing of Alpenhorns-COMMA- wrestling matches-COMMA- some pagan traditions such as Walpurgis Night and-COMMA- in many areas-COMMA- Carnival is celebrated before Lent.
 4704,medieval designs
-4705,stube
+4705,Alps
 4706,Bernese Oberland
-4707,Swiss
+4707,Alps
 4708,Swiss
 4709,Popularly
 4710,Food
@@ -4719,7 +4719,7 @@ id,answer
 4718,Alps
 4719,Bavaria
 4720,around 50-COMMA-000 years
-4721,plains
+4721,France
 4722,The tourism industry began in the early 19th century when foreigners visited the Alps-COMMA- traveled to the bases of the mountains to enjoy the scenery-COMMA- and stayed at the spa-resorts.
 4723,Large hotels were built during the Belle Époque; cog-railways-COMMA- built early in the 20th century-COMMA- brought tourists to ever higher elevations-COMMA- with the Jungfraubahn terminating at the Jungfraujoch-COMMA- well above the eternal snow-line-COMMA- after going through a tunnel in Eiger.
 4724,Large hotels were built during the Belle Époque; cog-railways-COMMA- built early in the 20th century-COMMA- brought tourists to ever higher elevations-COMMA- with the Jungfraubahn terminating at the Jungfraujoch-COMMA- well above the eternal snow-line-COMMA- after going through a tunnel in Eiger.
@@ -4744,20 +4744,20 @@ id,answer
 4743,motorways and main roads
 4744,Europe
 4745,help·info
-4746,Jiangsu province and Shanghai municipality
-4747,Jiangsu province and Shanghai municipality
-4748,Jiangsu province and Shanghai municipality
+4746,Jiangsu province and Shanghai
+4747,Jiangsu province and Shanghai
+4748,Jiangsu province and Shanghai
 4749,a continuous body
 4750,Zhè Jiāng
 4751,浙江
 4752,Crooked
-4753,浙江
+4753,Zhe River
 4754,Hangzhou
 4755,Neolithic
 4756,Hemudu and Liangzhu
 4757,2007
 4758,Neolithic
-4759,Austronesian
+4759,O1
 4760,Shang
 4761,The kingdom of Yue began to appear in the chronicles and records written during the Spring and Autumn Period.
 4762,Zhejiang
@@ -4770,7 +4770,7 @@ id,answer
 4769,Qin Empire
 4770,At the beginning of the Three Kingdoms era (220–280 CE)-COMMA- Zhejiang was home to the warlords Yan Baihu and Wang Lang prior to their defeat by Sun Ce and Sun Quan-COMMA- who eventually established the Kingdom of Wu.
 4771,CE
-4772,Three Kingdoms
+4772,Zhejiang
 4773,Nanjing
 4774,Vietnam
 4775,Zhejiang was part of the Wu during the Three Kingdoms.
@@ -4791,7 +4791,7 @@ id,answer
 4790,1279
 4791,Jin
 4792,Sui
-4793,Plain
+4793,Hangzhou
 4794,1127
 4795,1127
 4796,Jingkang Incident
@@ -4834,9 +4834,9 @@ id,answer
 4833,Altitudes
 4834,Ryukyu Islands
 4835,Huzhou
-4836,浙江
-4837,West Lake
-4838,West Lake
+4836,Zhe River
+4837,West Lake of Hangzhou
+4838,South Lake of Jiaxing
 4839,over three
 4840,Zhoushan Island
 4841,many bays
@@ -4860,7 +4860,7 @@ id,answer
 4859,Land of Fish and Rice
 4860,jute and cotton
 4861,jute and cotton
-4862,True
+4862,Zhoushan
 4863,True
 4864,Ningbo-COMMA- Wenzhou-COMMA- Taizhou and Zhoushan
 4865,Hangzhou Bay Bridge
@@ -4873,7 +4873,7 @@ id,answer
 4872,disposable income
 4873,US
 4874,500
-4875,Thursday
+4875,Hongxiao Village
 4876,eight
 4877,two
 4878,Chen Hongming
@@ -4890,7 +4890,7 @@ id,answer
 4889,mid-2015
 4890,Islam arrived 1-COMMA-400 years ago in Zhejiang.
 4891,Buddhism
-4892,civil religion
+4892,Zhejiang
 4893,Three Rectifications and One Demolition
 4894,400 years
 4895,400 years
@@ -5084,7 +5084,7 @@ id,answer
 5083,DOPMA
 5084,Enlisted
 5085,San Antonio
-5086,OTS
+5086,San Antonio
 5087,Promotion from major to lieutenant colonel is similar and occurs approximately between the thirteen year (for officers who were promoted to major early below the zone) and the fifteen year mark-COMMA- where a certain percentage of majors will be selected below zone (i.e.-COMMA- early)-COMMA- in zone (i.e.-COMMA- on time) or above zone (i.e.-COMMA- late) for promotion to lieutenant colonel.
 5088,This process will repeat at the 16 year mark (for officers previously promoted early to major and lieutenant colonel) to the 21 year mark for promotion to full colonel.
 5089,Title
@@ -5094,12 +5094,12 @@ id,answer
 5093,Chief Master Sergeant
 5094,Enlisted
 5095,Enlisted
-5096,NCO
+5096,E-4
 5097,NCOs
 5098,1947
 5099,The USAF is the only branch of the U.S. military where NCO status is achieved when an enlisted person reaches the pay grade of E-5.
 5100,Airman Leadership School
-5101,Navy and Coast Guard
+5101,E-4
 5102,USAF
 5103,1947
 5104,1993
@@ -5120,16 +5120,16 @@ id,answer
 5119,AFFT
 5120,AFFT
 5121,AFFT
-5122,AFFT
+5122,75%
 5123,Many
 5124,precision strikes
-5125,friendly forces
+5125,( The
 5126,USAF
 5127,USAF
 5128,Perhaps
 5129,air support
 5130,Air Force Office of Special Investigations
-5131,China
+5131,People 's Republic of China
 5132,1990s
 5133,1990s
 5134,service 's B-2A aircraft
@@ -5183,11 +5183,11 @@ id,answer
 5182,1869
 5183,379
 5184,School of Professional Studies
-5185,Kellogg School of Management
+5185,Sheridan Road
 5186,Lake Michigan
 5187,Purple
 5188,Methodist Episcopal Church
-5189,Global Engagement Summer Institute
+5189,May 31
 5190,Purple
 5191,John Paul Stevens
 5192,Northwest Territory
@@ -5250,7 +5250,7 @@ id,answer
 5249,Green Power Leadership Club
 5250,GPP
 5251,Gold LEED Certification
-5252,faculty and new academic programs
+5252,20%
 5253,1-COMMA-500
 5254,Additionally
 5255,Philo Judson
@@ -5269,9 +5269,9 @@ id,answer
 5268,four
 5269,four
 5270,10-week
-5271,Undergraduate
+5271,$61-COMMA-240
 5272,University
-5273,Approximately
+5273,44
 5274,$17-COMMA-200
 5275,$472 million
 5276,Weinberg College of Arts and Sciences
@@ -5280,14 +5280,14 @@ id,answer
 5279,Weinberg College of Arts and Sciences
 5280,Weinberg College of Arts and Sciences
 5281,College Sustainability Report Card
-5282,Northwestern
-5283,SAT
-5284,ACT
-5285,ACT
+5282,35-COMMA-099
+5283,31–34
+5284,690–760
+5285,690–760
 5286,Chicago Star Partnership
 5287,Rahm Emanuel
 5288,Northwestern
-5289,School of the Art Institute
+5289,Rahm Emanuel
 5290,four
 5291,over 4.9 million
 5292,Norris University Center
@@ -5323,7 +5323,7 @@ id,answer
 5322,Freshman Urban Program
 5323,Global Engagement Summer Institute
 5324,faculty committee report
-5325,Northwestern
+5325,39%
 5326,21
 5327,21
 5328,Northwestern
@@ -5415,7 +5415,7 @@ id,answer
 5414,Minneapolis
 5415,Henry VIII
 5416,Protestants
-5417,Various
+5417,33%
 5418,Christians
 5419,First Great Awakening
 5420,Alliance of Renewal Churches
@@ -5517,9 +5517,9 @@ id,answer
 5516,In the post–World War I era-COMMA- Liberal Christianity was on the rise-COMMA- and a considerable number of seminaries held and taught from a liberal perspective as well.
 5517,1820s
 5518,English
-5519,Christian
+5519,Zurich
 5520,Protestantism
-5521,England
+5521,South America and Australia
 5522,In North America-COMMA- South America and Australia Christian religious observance is much higher than in Europe.
 5523,United States
 5524,Radical Reformation
@@ -5589,7 +5589,7 @@ id,answer
 5588,Western
 5589,Great Awakenings
 5590,Great Awakenings
-5591,Evangelical Protestant
+5591,Charles
 5592,Tonga—in
 5593,Baptist and Methodist
 5594,Magisterial Reformation
@@ -5599,7 +5599,7 @@ id,answer
 5598,Arminian
 5599,Calvinist
 5600,Apostolic
-5601,Apostolic Age
+5601,early
 5602,New Testament
 5603,God
 5604,Assemblies of God
@@ -5636,7 +5636,7 @@ id,answer
 5635,Assemblies of God
 5636,New Zealand
 5637,Larry Christenson
-5638,Hosanna
+5638,Minnesota
 5639,California
 5640,Spirit
 5641,Richard A. Jensen
@@ -5664,7 +5664,7 @@ id,answer
 5663,60
 5664,Massachusetts Bay Colony
 5665,1701
-5666,a centre
+5666,Pennsylvania
 5667,Industry
 5668,luxury
 5669,a strong incentive
@@ -5679,7 +5679,7 @@ id,answer
 5678,Morgans and Harrimans
 5679,United States
 5680,Assemblies of God
-5681,Republican Party
+5681,United States
 5682,English Puritanism and German Pietism
 5683,English Puritanism and German Pietism
 5684,According
@@ -5719,11 +5719,11 @@ id,answer
 5718,Chancellor
 5719,Christianity
 5720,Germany
-5721,Chancellor
+5721,Germany
 5722,John Milton and John Locke 's stance
 5723,World
 5724,Protestant
-5725,World
+5725,Washington Irving
 5726,Reformers
 5727,Therefore
 5728,Protestant
@@ -5757,17 +5757,17 @@ id,answer
 5756,Western
 5757,33%
 5758,11.6% and 13%
-5759,In
+5759,Europe
 5760,Christian
 5761,Reformation
-5762,Eurobarometer
-5763,European
-5764,According
-5765,Although
+5762,12%
+5763,Estonia and Hungary
+5764,one
+5765,Czech Republic
 5766,Africa
 5767,1850s
-5768,In
-5769,According
+5768,59%
+5769,79%
 5770,India
 5771,Armenian
 5772,Christianity
@@ -5784,19 +5784,19 @@ id,answer
 5783,Armenian Genocide
 5784,Persians
 5785,1990
-5786,Azerbaijani
+5786,Yerevan
 5787,Armenia
 5788,Argishti I. Yerevan
 5789,Seleucid Empire
 5790,Achaemenid Empire
 5791,In the 1st century BC the Kingdom of Armenia reached its height under Tigranes the Great.
-5792,Wilsonian Armenia.
+5792,American University of Armenia
 5793,Persian Empire
 5794,President
 5795,Ashurbanipal
 5796,1980s
 5797,1994
-5798,Arab Empire
+5798,Ashot
 5799,Yerevan
 5800,Marzpanate
 5801,Byzantine Empire
@@ -5806,8 +5806,8 @@ id,answer
 5805,Armenian
 5806,Zakarid
 5807,Northern
-5808,Armenian
-5809,Armenian
+5808,Kingdom of Artsakh
+5809,Artsakh and Utik
 5810,1071
 5811,Ottoman Empire and Safavid Empire
 5812,Eastern
@@ -5911,7 +5911,7 @@ id,answer
 5910,Sèvres
 5911,64%
 5912,Greek
-5913,Council of Europe
+5913,France and Greece
 5914,2005
 5915,1991
 5916,1992
@@ -5947,7 +5947,7 @@ id,answer
 5946,Olympics
 5947,$1.1 billion
 5948,2003
-5949,However
+5949,around 15%
 5950,Armenians and Azerbaijanis
 5951,1994
 5952,1997
@@ -5960,7 +5960,7 @@ id,answer
 5959,1930
 5960,1930
 5961,Mkhitar Heratsi
-5962,YSMI
+5962,Mkhitar Heratsi
 5963,Medical Institutions
 5964,1957
 5965,India
@@ -5989,7 +5989,7 @@ id,answer
 5988,16-COMMA-000
 5989,Armenia
 5990,Martiros Saryan Museum
-5991,a landlocked country
+5991,Lake Sevan
 5992,Union of European Football Associations
 5993,International Ice Hockey Federation
 5994,Since
@@ -6039,9 +6039,9 @@ id,answer
 6038,1950s
 6039,over
 6040,Center
-6041,High Plains
+6041,five
 6042,Ogallala Aquifer
-6043,extensive cattle
+6043,Today
 6044,Commission for Environmental Cooperation
 6045,American
 6046,railroads
@@ -6076,7 +6076,7 @@ id,answer
 6075,1567
 6076,Pope Zacharias
 6077,The earliest example of this occurs in a letter sent by Pope Zacharias in 747 to Pippin III (the Short)-COMMA- ruler of the Franks-COMMA- in which Zacharias applied the title to the priests of Paris to distinguish them from country clergy.
-6078,Pope Urban VIII
+6078,Prince
 6079,1630
 6080,1563
 6081,Pius IV
@@ -6091,7 +6091,7 @@ id,answer
 6090,right
 6091,John XXIII
 6092,Guillaume Dubois and André-Hercule de Fleury
-6093,a maximum age
+6093,years
 6094,37 percent
 6095,37 percent
 6096,Rome
@@ -6101,8 +6101,8 @@ id,answer
 6100,College of Cardinals
 6101,Pope Urban VIII
 6102,Richelieu
-6103,case
-6104,Pope
+6103,Holy Roman Church
+6104,Mary and John
 6105,Catholic News Service
 6106,Card.
 6107,Cardinals
@@ -6125,10 +6125,10 @@ id,answer
 6124,Pius X
 6125,bishops
 6126,prominent priests
-6127,Patriarch
+6127,Ostia
 6128,Velletri
 6129,1962
-6130,Cardinal Vicar
+6130,Ostia
 6131,Ostia
 6132,Italian
 6133,Roman Rota
@@ -6143,7 +6143,7 @@ id,answer
 6142,scarlet color
 6143,1460s
 6144,a pope
-6145,a pope
+6145,Martin V
 6146,Mass
 6147,1917
 6148,Pope
@@ -6168,25 +6168,25 @@ id,answer
 6167,churches
 6168,Paul VI
 6169,Paul VI
-6170,cardinal-priest
+6170,Eminence
 6171,ninth century
 6172,ninth century
 6173,1587
-6174,College
+6174,70
 6175,College of Minor Canons of St Paul
 6176,three
 6177,Atlantic Coastal Plain
 6178,Atlantic Coastal Plain
-6179,45 %
+6179,Piedmont
 6180,Albemarle Sound
-6181,Small
+6181,Piedmont
 6182,Piedmont region
 6183,300
 6184,Atlantic Seaboard fall line
-6185,Atlantic Seaboard fall line
-6186,state
-6187,Among
-6188,Black Mountains
+6185,fall
+6186,Appalachian Mountain
+6187,Blue Ridge Mountains
+6188,Mount Mitchell
 6189,Black Mountains
 6190,Mount Mitchell
 6191,Atlantic Ocean
@@ -6194,19 +6194,19 @@ id,answer
 6193,humid
 6194,89
 6195,day
-6196,Piedmont region
-6197,highest coastal
-6198,Piedmont and far-inland areas
+6196,Piedmont
+6197,over 90
+6198,38
 6199,Piedmont
-6200,hotter summers and colder winters
+6200,winter
 6201,11–14
 6202,day
 6203,76
 6204,Annual
-6205,state
+6205,Appalachian Mountain
 6206,40s
-6207,state
-6208,daytime highs
+6207,40s
+6208,winter
 6209,2.5 cm
 6210,Florida and Louisiana
 6211,Hurricane
@@ -6215,7 +6215,7 @@ id,answer
 6214,1954
 6215,20
 6216,hurricanes or tropical storms
-6217,Black Mountains
+6217,United States
 6218,mountains
 6219,Also
 6220,200
@@ -6238,18 +6238,18 @@ id,answer
 6237,William Tryon
 6238,Populists
 6239,Raleigh
-6240,Continental Army
+6240,North Carolina
 6241,7-COMMA-800
 6242,1780–81
 6243,Southern Division
-6244,Many Carolinian
+6244,Washington District
 6245,1800
 6246,African Americans
 6247,Tidewater
 6248,Many
-6249,3 percent
+6249,3
 6250,1865
-6251,1865
+6251,Reconstruction Era
 6252,United States
 6253,1870
 6254,Ku Klux Klan
@@ -6264,7 +6264,7 @@ id,answer
 6263,Americans
 6264,1964
 6265,Democratic Party
-6266,economy 's growth and prosperity
+6266,Civil War
 6267,A major industrial base emerged in the late 19th century in the western counties of the Piedmont-COMMA- based on cotton mills established at the fall line.
 6268,Piedmont
 6269,A major industrial base
@@ -6288,7 +6288,7 @@ id,answer
 6287,1584
 6288,I. By
 6289,two
-6290,Virginia colony
+6290,Virginia
 6291,1663
 6292,North American
 6293,I. By
@@ -6316,32 +6316,32 @@ id,answer
 6315,Continental Army
 6316,Johnston
 6317,Nathanael Greene
-6318,British Cavalry Commander
+6318,January 17
 6319,The Race
-6320,General
+6320,Catawba River
 6321,1781
-6322,March 15
+6322,Generals Greene and Cornwallis
 6323,Greensboro
 6324,Pyrrhic
 6325,Constitution
-6326,events
+6326,November 21
 6327,1840
 6328,Raleigh
-6329,North Carolina 's slave owners and large plantations
-6330,African Americans
+6329,North Carolina
+6330,Many
 6331,Quakers and Mennonites
 6332,Revolution
 6333,Raleigh
 6334,Wilmington and Raleigh Railroad
-6335,act
-6336,legislature
+6335,North Carolina Railroad
+6336,Greensboro
 6337,Private
 6338,one-third
 6339,Carolina Hurricanes NHL
 6340,color
 6341,30-COMMA-463
 6342,Besides
-6343,a slave state
+6343,one-third
 6344,President
 6345,1861
 6346,1861
@@ -6391,7 +6391,7 @@ id,answer
 6390,2009
 6391,115
 6392,Wake County Public School System
-6393,United States—the University of North Carolina
+6393,North Carolina
 6394,1795
 6395,North Carolina
 6396,Along
@@ -6412,11 +6412,11 @@ id,answer
 6411,18
 6412,Greensboro
 6413,North Carolina
-6414,Bank of America Stadium
+6414,Charlotte
 6415,two
 6416,million
-6417,Appalachian Mountain range
-6418,Appalachians
+6417,Great Smoky Mountains
+6418,Black Mountains
 6419,two
 6420,Coast Guard
 6421,Carolina Hurricanes NHL
@@ -6537,19 +6537,19 @@ id,answer
 6536,Sebastião
 6537,Portuguese
 6538,Iberian Peninsula
-6539,mainland Europe
+6539,Europe
 6540,1-COMMA-214
 6541,own regional governments
 6542,Portuguese
 6543,Iberian Peninsula
 6544,Europe
-6545,mainland Europe
+6545,Europe
 6546,Portugal–Spain
 6547,Portuguese
 6548,IMF—the
 6549,1139
-6550,Western
-6551,Age of Discovery
+6550,15th and 16th
+6551,15th and 16th
 6552,Lisbon
 6553,1975
 6554,1910
@@ -6578,7 +6578,7 @@ id,answer
 6577,Iberian
 6578,Oman
 6579,Atlas mountains
-6580,Moors
+6580,Algarve
 6581,800
 6582,García
 6583,João
@@ -6589,11 +6589,11 @@ id,answer
 6588,England
 6589,England
 6590,NATO
-6591,Particularly
+6591,Oporto
 6592,Age of Discovery
 6593,Henry the Navigator
 6594,Cape of Good Hope
-6595,Cape of Good Hope
+6595,Atlantic Ocean
 6596,European
 6597,Minister of Foreign Affairs
 6598,Prime Minister
@@ -6616,8 +6616,8 @@ id,answer
 6615,1976
 6616,Land
 6617,Csa and Csb
-6618,South
-6619,Csa
+6618,Csb
+6619,Csb
 6620,10.2 %
 6621,a subtropical climate
 6622,Azores and Madeira
@@ -6642,7 +6642,7 @@ id,answer
 6641,Democratic and Social Centre – People 's Party
 6642,a multi-party system
 6643,Socialist Party
-6644,Democratic and Social Centre – People 's Party
+6644,two
 6645,President
 6646,five-year
 6647,Head of State
@@ -6663,22 +6663,22 @@ id,answer
 6662,18
 6663,three
 6664,Navy
-6665,Portuguese Empire
+6665,Angola
 6666,7-COMMA-500
 6667,three
-6668,three branches
+6668,21-COMMA-000
 6669,Pandur II APC
 6670,Pandur II APC
 6671,Pandur II APC
 6672,10-COMMA-700
 6673,World War I
 6674,1961–1974
-6675,Portuguese Empire
+6675,East Timor
 6676,Portuguese Armed Forces
 6677,Pedro Passos Coelho
 6678,NUTS
 6679,State
-6680,baseline
+6680,20%
 6681,1917
 6682,Carnation Revolution
 6683,Gradiva
@@ -6701,7 +6701,7 @@ id,answer
 6700,2011
 6701,Portuguese
 6702,2014
-6703,economy
+6703,15.3
 6704,Thus
 6705,Grupo RAR
 6706,country
@@ -6720,13 +6720,13 @@ id,answer
 6719,Évora
 6720,Portuguese
 6721,European
-6722,Porto
+6722,Douro River
 6723,Porto
 6724,Lisbon 's tourist attractions
 6725,The Economist
-6726,number
-6727,10.2 %
-6728,Moody
+6726,65%
+6727,10.2%
+6728,December
 6729,2011
 6730,Parliament
 6731,late
@@ -6741,13 +6741,13 @@ id,answer
 6740,Council of Ministers
 6741,Portuguese
 6742,European Commission
-6743,English
+6743,65
 6744,Prime Minister
 6745,English
 6746,Portuguese
 6747,2013
-6748,Portugal
-6749,7.3 %
+6748,17.7%
+6749,7.3%
 6750,2009
 6751,Porto
 6752,Fátima
@@ -6760,9 +6760,9 @@ id,answer
 6759,1944
 6760,18
 6761,Aeroportos
-6762,Continental Portugal
+6762,Lisbon
 6763,geographical position
-6764,TAP
+6764,Portuguese
 6765,Spain
 6766,Comboios
 6767,Comboios
@@ -6788,34 +6788,34 @@ id,answer
 6787,considerable resources
 6788,Norte
 6789,Norte
-6790,66 %
+6790,66%
 6791,Portugal’s
 6792,Redes Energéticas Nacionais
 6793,hydropower plants
 6794,New
 6795,such contributions
 6796,81.0%
-6797,INE Instituto Nacional de Estatística
-6798,INE Instituto Nacional de Estatística
+6797,10-COMMA-562-COMMA-178
+6798,10-COMMA-562-COMMA-178
 6799,Traditional Chinese Medicine and African Witch Doctors
 6800,Mouriscos
 6801,Paleolithic
 6802,1977
 6803,Paleolithic
 6804,colonial history
-6805,mainland Europe
+6805,Europe
 6806,European
 6807,Portuguese
 6808,10-COMMA-617-COMMA-575
-6809,Although
+6809,81.0%
 6810,Tourist
-6811,8.3 %
-6812,6.8 %
+6811,8.3%
+6812,6.8%
 6813,Christian
-6814,Portuguese
+6814,13th and 14th
 6815,First Portuguese Republic
 6816,1910–26
-6817,Battle of Ourique
+6817,25 July
 6818,Ecstatic
 6819,Ecstatic
 6820,Portuguese
@@ -6827,10 +6827,10 @@ id,answer
 6826,1415 and 1999
 6827,five
 6828,Brazil
-6829,total adult literacy rate
+6829,99
 6830,100
-6831,OECD
-6832,OECD
+6831,one
+6832,one
 6833,1290
 6834,Lisbon
 6835,Lisbon
@@ -6838,17 +6838,17 @@ id,answer
 6837,Escola of Goa
 6838,2006
 6839,Most student costs
-6840,However
+6840,over 23 years
 6841,Ministry of Health
 6842,Five
 6843,Five
 6844,Alfonso
 6845,Mortality
 6846,CVD
-6847,Similar
+6847,12%
 6848,Although
 6849,Thus
-6850,Kasmel
+6850,one
 6851,Calouste Gulbenkian Foundation
 6852,1956
 6853,Lisbon
@@ -6892,7 +6892,7 @@ id,answer
 6891,Sequeira Costa
 6892,José Vianna da Motta
 6893,Nuno Malo and Miguel d'Oliveira
-6894,Portuguese
+6894,20th
 6895,French
 6896,Portuguese
 6897,Vieira da Silva
@@ -6907,7 +6907,7 @@ id,answer
 6906,Portuguese
 6907,Federação Portuguesa de Futebol
 6908,Technische Universität
-6909,English
+6909,early 19th
 6910,English
 6911,Greek
 6912,Greek
@@ -6918,7 +6918,7 @@ id,answer
 6917,academic degrees and doctorates
 6918,1996
 6919,UK
-6920,Royal Polytechnic Institution
+6920,London
 6921,state
 6922,University of Technology
 6923,College of Advanced Education
@@ -6936,11 +6936,11 @@ id,answer
 6935,Affiliate Schools
 6936,Quebec
 6937,Canadian
-6938,most esteemed colleges and polytechnic institutions
+6938,Polytechnics Canada
 6939,research-intensive colleges and institutes
 6940,1895
 6941,Capital University
-6942,half
+6942,Institute of Technology
 6943,1997
 6944,Geophysics Institute
 6945,Quito Astronomical Observatory
@@ -6948,7 +6948,7 @@ id,answer
 6947,1873
 6948,one
 6949,knowledge and skills
-6950,Provisional Governing Board
+6950,50
 6951,Technische Universität
 6952,Prior
 6953,180
@@ -6960,7 +6960,7 @@ id,answer
 6959,IUT
 6960,Fachhochschule
 6961,Polytechnicum
-6962,Higher
+6962,18th
 6963,Écoles Polytechniques
 6964,French
 6965,• Can
@@ -6994,7 +6994,7 @@ id,answer
 6993,two
 6994,Genoa
 6995,Imperial College of Engineering
-6996,an institute
+6996,Ireland
 6997,Malaysia
 6998,UNESCO
 6999,Ipoh
@@ -7009,7 +7009,7 @@ id,answer
 7008,Polytechnic
 7009,Since
 7010,Central Institute of Technology
-7011,National Polytechnic School
+7011,North Island
 7012,Education Act
 7013,Polytechnic
 7014,Pathumwan Technical School
@@ -7022,7 +7022,7 @@ id,answer
 7021,Singaporean
 7022,5
 7023,three-year
-7024,Academy
+7024,December 13
 7025,1735
 7026,Further
 7027,1735
@@ -7052,7 +7052,7 @@ id,answer
 7051,Further and Higher Education Act
 7052,Further and Higher Education Act
 7053,university colleges
-7054,University
+7054,early 20th
 7055,Singaporean
 7056,1824
 7057,New York University Tandon School of Engineering
@@ -7070,7 +7070,7 @@ id,answer
 7069,For example-COMMA- in New Zealand the moas were important browsers-COMMA- as are the kereru and kokako today.
 7070,digestive and respiratory systems
 7071,Many
-7072,brain
+7072,Xenicibis
 7073,use tools-COMMA- and many social species
 7074,hens
 7075,Bird
@@ -7081,7 +7081,7 @@ id,answer
 7080,120–130
 7081,Neognathae
 7082,Gauthier
-7083,Many
+7083,Crocodilia
 7084,Based
 7085,Based
 7086,Liaoning Province of northeast China
@@ -7110,7 +7110,7 @@ id,answer
 7109,Aves
 7110,Brood
 7111,Aves
-7112,Depending
+7112,9-COMMA-800
 7113,Galloanserae
 7114,Galloanserae
 7115,Anseriformes
@@ -7135,7 +7135,7 @@ id,answer
 7134,waste
 7135,cloaca-COMMA- and females
 7136,Most birds
-7137,bird exhales
+7137,75%
 7138,Upon
 7139,Sound
 7140,mechanical sounds
@@ -7169,13 +7169,13 @@ id,answer
 7168,temperature changes
 7169,innermost tertiaries
 7170,physical condition
-7171,Partial
+7171,around 9%
 7172,feathers ' flexibility and act
 7173,anting
 7174,Most birds
 7175,Flight
 7176,two
-7177,Chickens
+7177,15%
 7178,60
 7179,bad weather
 7180,other birds
@@ -7192,12 +7192,12 @@ id,answer
 7191,a behaviour
 7192,anting
 7193,Before migration-COMMA- birds substantially increase body fats and reserves and reduce the size of some of their organs.
-7194,Many
-7195,Landbirds
+7194,around 2-COMMA-500
+7195,around 2-COMMA-500
 7196,Landbirds
 7197,Albatrosses
-7198,Partial
-7199,Partial
+7198,44%
+7199,32%
 7200,normal territories
 7201,Parrots
 7202,day-COMMA- and a stellar compass
@@ -7210,8 +7210,8 @@ id,answer
 7209,Calls
 7210,Coenocorypha
 7211,Coenocorypha
-7212,safety
-7213,many mixed-species
+7212,The principal benefits of flocking are safety in numbers and increased foraging efficiency.
+7213,30%
 7214,Defence
 7215,Many
 7216,Swifts
@@ -7259,7 +7259,7 @@ id,answer
 7258,Many
 7259,Malurus
 7260,Other
-7261,Nevertheless
+7261,43%
 7262,Cooperative
 7263,unrelated individuals
 7264,a reduction
@@ -7338,7 +7338,7 @@ id,answer
 7337,Balboa Park
 7338,Spanish and Mexican
 7339,Exposition
-7340,California Pacific International Exposition
+7340,San Ysidro Port of Entry
 7341,Army
 7342,Ryan Aeronautical
 7343,Clairemont
@@ -7346,22 +7346,22 @@ id,answer
 7345,Ryan Airlines
 7346,1930
 7347,U.S.
-7348,Operation Cherry Blossoms
+7348,U.S.
 7349,Japan
 7350,Operation Cherry Blossoms
 7351,American
 7352,1-COMMA-000
 7353,Due
 7354,Japan
-7355,American
-7356,northern and southern segments
+7355,Japan
+7356,Las Vegas and Salt Lake City
 7357,Mission Trails Regional Park
 7358,small pockets
 7359,a river valley
 7360,San Diego Bay
-7361,Point
+7361,San Diego Bay
 7362,San Ysidro and Otay Mesa
-7363,city
+7363,Lake Hodges
 7364,La Jolla-COMMA- Pacific Beach-COMMA- Mission Beach-COMMA- and Ocean Beach
 7365,One
 7366,Currently
@@ -7399,30 +7399,30 @@ id,answer
 7398,four years
 7399,2-COMMA-200
 7400,Opera America
-7401,third-largest urban area
+7401,California
 7402,1-COMMA-307-COMMA-402
 7403,963.7 km2
 7404,2-COMMA-956-COMMA-746
 7405,3-COMMA-771.9
 7406,city population
-7407,city population
+7407,55
 7408,a land area
 7409,1-COMMA-306-COMMA-300
 7410,2000
-7411,Hispanics
+7411,41.6 years
 7412,long average trip distances—brought
-7413,Hispanics
+7413,63.1%
 7414,six weeks
 7415,SANDAG
-7416,Millennials
-7417,Median
+7416,34
+7417,55
 7418,2011
-7419,[ update ]
-7420,According
+7419,27.1%
+7420,20.0%
 7421,Nonetheless
 7422,According
 7423,a household
-7424,According
+7424,20.0%
 7425,Craft Beer Capital.
 7426,over
 7427,Tourism
@@ -7455,13 +7455,13 @@ id,answer
 7454,TV
 7455,Farmers Insurance Open
 7456,three times
-7457,annual world Over-the-line championships
+7457,Mission Bay
 7458,annual world Over-the-line championships
 7459,Torrey Pines Golf Course
 7460,one
 7461,2006
 7462,Secure Communities
-7463,mayor-COMMA- city attorney-COMMA- and council members
+7463,four-year
 7464,San Diego County
 7465,Michael Zucchet
 7466,four-year
@@ -7481,7 +7481,7 @@ id,answer
 7480,Like
 7481,Operation Cherry Blossoms
 7482,According
-7483,0.8 %
+7483,0.8%
 7484,crime rate
 7485,KFMB
 7486,80.6 percent
@@ -7501,7 +7501,7 @@ id,answer
 7500,Las Vegas and Salt Lake City
 7501,Mexican
 7502,Arizona Sun Corridor
-7503,80 percent
+7503,over 80
 7504,Major
 7505,East County
 7506,San Diego Bay
@@ -7509,10 +7509,10 @@ id,answer
 7508,dense urban communities
 7509,location
 7510,long average trip distances—brought
-7511,SDMTS
-7512,Web
+7511,Mission Valley
+7512,511
 7513,two
-7514,Web
+7514,511
 7515,San Diego
 7516,SAN
 7517,over 17 million
@@ -7521,9 +7521,9 @@ id,answer
 7520,Brown Field
 7521,The Merge
 7522,The
-7523,U.S.–Mexico
+7523,Tijuana
 7524,HOV
-7525,According
+7525,37
 7526,British
 7527,Opposite
 7528,United Kingdom of Great Britain and Northern Ireland
@@ -7537,7 +7537,7 @@ id,answer
 7536,united ministry of defence
 7537,1923
 7538,Stanley Baldwin
-7539,Service
+7539,fall
 7540,Winston Churchill
 7541,1946
 7542,1940
@@ -7587,14 +7587,14 @@ id,answer
 7586,London Evening Standard
 7587,10%
 7588,10%
-7589,UK land mass
+7589,1.8%
 7590,£3.3 billion
 7591,United Kingdom
-7592,84.0 %
+7592,84.0%
 7593,Services
-7594,3.4 %
+7594,3.4%
 7595,Defence Infrastructure Organisation
-7596,2.5 %
+7596,2.5%
 7597,Whitehall
 7598,Whitehall
 7599,Charles Wheeler
@@ -7619,7 +7619,7 @@ id,answer
 7618,1995
 7619,National Audit Office
 7620,2010
-7621,total annual cost
+7621,£500m
 7622,PFI
 7623,2008
 7624,MoD
@@ -7633,7 +7633,7 @@ id,answer
 7632,10%
 7633,The Ministry of Defence (MoD) is the British government department responsible for implementing the defence policy set by Her Majesty's Government-COMMA- and is the headquarters of the British Armed Forces.
 7634,He
-7635,Ministry of Defence
+7635,£6.5bn
 7636,Ministry of Defence
 7637,short duration watery diarrhea
 7638,Antibiotics
@@ -7673,7 +7673,7 @@ id,answer
 7672,impoverished people
 7673,impact
 7674,young children
-7675,helminth infection and early breastfeeding
+7675,early
 7676,A
 7677,A
 7678,According
@@ -7720,14 +7720,14 @@ id,answer
 7719,Cimetière
 7720,2009
 7721,22.4 million
-7722,Basilica
+7722,12th
 7723,Stade Français Paris
 7724,Stade Français
 7725,80-COMMA-000-seat
 7726,1938 and 1998
-7727,Every
+7727,July
 7728,French
-7729,AD
+7729,3rd
 7730,Saint Denis
 7731,Mons Martyrum
 7732,Paris
@@ -7735,17 +7735,17 @@ id,answer
 7734,In 987 Hugh Capet-COMMA- Count of Paris (comte de Paris)-COMMA- Duke of the Franks (duc des Francs) was elected King of the Franks (roi des Franks).
 7735,Fortification
 7736,Frankish
-7737,Île
+7737,Cité
 7738,Maurice de Sully
 7739,Neuilly-sur-Seine
 7740,Maurice de Sully
 7741,1420
 7742,Joan
-7743,French Protestants
+7743,24 August
 7744,1594
 7745,Paris Fire Brigade
 7746,1682
-7747,King Louis XIV
+7747,Pierre Mignard
 7748,Grands Boulevards
 7749,Academy of Painting
 7750,Paris
@@ -7761,7 +7761,7 @@ id,answer
 7760,6-COMMA-000
 7761,1977
 7762,Ernest Hemingway
-7763,4th Infantry Division of the United States Army
+7763,14 June
 7764,12-COMMA-884
 7765,North Africa
 7766,None
@@ -7779,17 +7779,17 @@ id,answer
 7778,Bertrand Delanoë
 7779,Vélib
 7780,2013
-7781,French Muslim
+7781,7 January
 7782,two
 7783,1.5 million
 7784,ISIL
 7785,Seven
 7786,Paris
 7787,814 square
-7788,Île
+7788,France
 7789,Île
 7790,several prominent hills
-7791,15 percent
+7791,Boulevard Périphérique
 7792,2-COMMA-300 km2
 7793,1860
 7794,6th and 7th
@@ -7805,11 +7805,11 @@ id,answer
 7804,Council of Paris
 7805,a month
 7806,2001
-7807,city administration
+7807,€7.6 billion
 7808,€2.2 billion
 7809,38
 7810,city
-7811,38 percent
+7811,38
 7812,2016
 7813,814 square
 7814,814 square
@@ -7817,9 +7817,9 @@ id,answer
 7816,seven
 7817,210
 7818,Patrick Ollier
-7819,Republican
+7819,Rueil-Malmaison
 7820,Republican
-7821,Though
+7821,65 million
 7822,Mantes-la-Jolie
 7823,7th
 7824,121
@@ -7840,7 +7840,7 @@ id,answer
 7839,Since
 7840,Middle Ages
 7841,1827
-7842,37 metres
+7842,37
 7843,La Défense
 7844,Hermitage Plaza
 7845,2009
@@ -7851,8 +7851,8 @@ id,answer
 7850,Frank Gehry
 7851,François Mitterrand
 7852,28-COMMA-800
-7853,urban planning-COMMA- housing-COMMA- and protection
-7854,a fixed residence
+7853,14
+7854,28-COMMA-800
 7855,Centres
 7856,Paris
 7857,Bois de Boulogne
@@ -7882,19 +7882,19 @@ id,answer
 7881,70-COMMA-852
 7882,70-COMMA-852
 7883,European and Asian
-7884,census
+7884,59.5%
 7885,Region
-7886,9.6 %
-7887,38 percent
+7886,9.6%
+7887,38
 7888,500-COMMA-000
 7889,Paris
 7890,38
 7891,370-COMMA-000 businesses
-7892,38 percent
+7892,38
 7893,La Defense
 7894,Jan.
 7895,29
-7896,highest concentration
+7896,30
 7897,IT
 7898,biggest Buddha statue
 7899,La Défense
@@ -7915,11 +7915,11 @@ id,answer
 7914,€36-COMMA-085
 7915,€82-COMMA-449
 7916,19th
-7917,[
-7918,[
-7919,city
-7920,7 percent
-7921,24 percent
+7917,8.8
+7918,8.2
+7919,€977
+7920,7
+7921,24
 7922,9.2 million
 7923,Notre Dame Cathedral
 7924,9.2 million
@@ -7930,7 +7930,7 @@ id,answer
 7929,1-COMMA-570
 7930,1817
 7931,1855
-7932,City
+7932,France
 7933,Italian
 7934,Pierre Mignard
 7935,1648
@@ -7976,14 +7976,14 @@ id,answer
 7975,Paris
 7976,Paris
 7977,Patrick Modiano–who
-7978,World War II
+7978,20th
 7979,Literature
 7980,Paris–
-7981,80 percent
+7981,80
 7982,150
 7983,250
-7984,French
-7985,a school
+7984,five
+7985,late 12th-century
 7986,1795
 7987,Francois I
 7988,Les Misérables
@@ -7996,7 +7996,7 @@ id,answer
 7995,clubs and cafés
 7996,Paris
 7997,Grand Café
-7998,audience
+7998,28 December
 7999,Big
 8000,Le Grand Rex theatre
 8001,Philippe Binant
@@ -8005,7 +8005,7 @@ id,answer
 8004,2000
 8005,an elegant dining room-COMMA- an extensive menu-COMMA- linen tablecloths-COMMA- a large wine list and well-trained waiters
 8006,1786
-8007,Café Anglais
+8007,19th
 8008,Café de Paris
 8009,9-COMMA-000
 8010,1900
@@ -8017,7 +8017,7 @@ id,answer
 8016,Now brasseries-COMMA- like cafés-COMMA- serve food and drinks throughout the day.
 8017,hand-made
 8018,Christophe Josse and Christian Lacroix
-8019,an international capital
+8019,19th
 8020,Louis Vuitton-COMMA- Hermés and Cartier
 8021,12th
 8022,55
@@ -8038,17 +8038,17 @@ id,answer
 8037,74
 8038,21
 8039,1814
-8040,Saint
+8040,George
 8041,Hector Guimard
 8042,1913
 8043,1960s
-8044,World War II
+8044,75%
 8045,Colonial Exposition
 8046,Venus de Milo
 8047,1985
 8048,nine metres
 8049,three-month
-8050,FIFA World Cup
+8050,Stade de France
 8051,the association football club Paris Saint-Germain F.C.
 8052,the association football club Paris Saint-Germain F.C.
 8053,STP
@@ -8063,7 +8063,7 @@ id,answer
 8062,Paris
 8063,96.5 million
 8064,Parisian
-8065,Parisian
+8065,Beauvais-Tillé Airport
 8066,Paris
 8067,Parisian
 8068,Paris
@@ -8110,7 +8110,7 @@ id,answer
 8109,lives
 8110,Another
 8111,650
-8112,obvious function
+8112,Conversely
 8113,protection
 8114,protection
 8115,Similarly
@@ -8126,11 +8126,11 @@ id,answer
 8125,insects-COMMA- noxious chemicals-COMMA- weather-COMMA- weapons-COMMA- and contact
 8126,Conversely
 8127,Humans
-8128,example-COMMA- dress shirts and suits
+8128,Specialized
 8129,Wearing
 8130,Meanwhile
 8131,social norms
-8132,Although
+8132,19th
 8133,1930
 8134,J. C. Flügel
 8135,Globalization
@@ -8142,7 +8142,7 @@ id,answer
 8141,Many
 8142,Males
 8143,Males
-8144,Travancore Kingdom
+8144,India
 8145,China
 8146,clothing choice
 8147,infectious and toxic materials
@@ -8228,7 +8228,7 @@ id,answer
 8227,Beatrice and Henry
 8228,1831
 8229,eight
-8230,Royal Titles Act
+8230,India
 8231,1871
 8232,John Conroy
 8233,Duchess
@@ -8291,7 +8291,7 @@ id,answer
 8290,1861
 8291,typhoid fever
 8292,1820
-8293,deep mourning
+8293,State Opening of Parliament
 8294,Prince of Wales
 8295,1830
 8296,Conroy and Lehzen
@@ -8312,7 +8312,7 @@ id,answer
 8311,Eton College
 8312,Queen
 8313,stairs
-8314,husband 's death
+8314,France
 8315,Orsini
 8316,Queen
 8317,Power
@@ -8365,7 +8365,7 @@ id,answer
 8364,Cloth of Gold
 8365,Leopold
 8366,Albert
-8367,public appearances
+8367,William
 8368,Brown
 8369,Princess
 8370,adviser
@@ -8403,8 +8403,8 @@ id,answer
 8402,Louis Philippe
 8403,King
 8404,London
-8405,French
-8406,Internationally
+8405,Ireland
+8406,German
 8407,progresses
 8408,1848
 8409,United Kingdom
@@ -8414,7 +8414,7 @@ id,answer
 8413,Napoleon III
 8414,Derby
 8415,sovereign
-8416,Italian
+8416,5 August
 8417,Orsini
 8418,Victoria and Albert
 8419,Britain
@@ -8464,7 +8464,7 @@ id,answer
 8463,Henry
 8464,British Empire
 8465,1887
-8466,Golden and Diamond Jubilees
+8466,times
 8467,Henry
 8468,Muslim Patriotic League
 8469,Hindus
@@ -8495,8 +8495,8 @@ id,answer
 8494,Giles St Aubyn
 8495,1921
 8496,a person Victoria
-8497,Duchess
-8498,Duchess
+8497,Malvern Hills
+8498,Malvern Hills
 8499,1849
 8500,progresses
 8501,Kent and Conroy
@@ -8518,7 +8518,7 @@ id,answer
 8517,1838
 8518,Charles Greville
 8519,April
-8520,first sovereign
+8520,Buckingham Palace
 8521,Lord
 8522,Russell
 8523,Whig
@@ -8532,7 +8532,7 @@ id,answer
 8531,The Famine Queen
 8532,a potato blight
 8533,million
-8534,The Famine Queen
+8534,Irish
 8535,The Famine Queen
 8536,£2-COMMA-000
 8537,a large tumour
@@ -8545,7 +8545,7 @@ id,answer
 8544,Wight
 8545,1847
 8546,1864
-8547,Osborne House
+8547,Scotland
 8548,Buckingham Palace
 8549,London
 8550,self-imposed isolation
@@ -8558,24 +8558,24 @@ id,answer
 8557,British East India Company
 8558,British Empire
 8559,British East India Company
-8560,British East India Company
+8560,Britain
 8561,Albert
 8562,Indian
-8563,generosity-COMMA- benevolence and religious toleration
+8563,Second War
 8564,Indian Rebellion
 8565,Indian Rebellion
 8566,Indian Rebellion
 8567,British East India Company
 8568,power
 8569,1883
-8570,rheumatism
+8570,Windsor
 8571,Brown
 8572,Leopold
 8573,Henry Ponsonby
 8574,1883
 8575,Elizabeth Longford and Cecil Woodham-Smith
 8576,Cannes
-8577,match
+8577,Beatrice and Henry
 8578,Hesse
 8579,July
 8580,Brown
@@ -8602,8 +8602,8 @@ id,answer
 8601,Though
 8602,Alexandrina Victoria
 8603,1820
-8604,daughter
-8605,three elder
+8604,Alexandrina Victoria
+8605,18
 8606,Leopold
 8607,Victoria of Saxe-Coburg-Saalfeld
 8608,1834 and 1835
@@ -8625,7 +8625,7 @@ id,answer
 8624,George IV
 8625,William
 8626,24 May
-8627,uncle George IV
+8627,20 June
 8628,uncle George IV
 8629,12 minutes
 8630,Alexandrina Victoria
@@ -8655,11 +8655,11 @@ id,answer
 8654,a remote apartment
 8655,John William Bean
 8656,Chartists and Irish
-8657,Biographies
+8657,two
 8658,John William Bean
 8659,following day
 8660,Francis
-8661,Journal
+8661,John William Bean
 8662,John William Bean
 8663,William Hamilton
 8664,Hamilton and Pate
@@ -8711,8 +8711,8 @@ id,answer
 8710,Leopold
 8711,Leopold
 8712,1819 and 1820
-8713,Royal Titles Act
-8714,Though
+8713,India
+8714,Kensington System
 8715,Victoria of Saxe-Coburg-Saalfeld
 8716,Princess
 8717,1831
@@ -8727,7 +8727,7 @@ id,answer
 8726,Leopold
 8727,Beatrice and Henry
 8728,George IV
-8729,Sir
+8729,Lady Flora Hastings
 8730,Tories
 8731,Sir
 8732,John Conroy
@@ -8744,7 +8744,7 @@ id,answer
 8743,1870
 8744,Trafalgar Square
 8745,English
-8746,August and September
+8746,Joseph Lister
 8747,Joseph Lister
 8748,Queen
 8749,Trafalgar Square
@@ -8769,7 +8769,7 @@ id,answer
 8768,Eleven
 8769,1840
 8770,Eleven
-8771,acquittal
+8771,Prince
 8772,grounds
 8773,William
 8774,Congress
@@ -8783,7 +8783,7 @@ id,answer
 8782,Abdul Karim
 8783,`` If
 8784,Disraeli
-8785,War
+8785,Victoria
 8786,Sovereign and Friend
 8787,Napoleon III
 8788,1855
@@ -8806,7 +8806,7 @@ id,answer
 8805,Edwin Henry Landseer
 8806,Slanderous
 8807,Edwin Henry Landseer
-8808,Sir
+8808,Edwin Henry Landseer
 8809,Royal Academy
 8810,Crimean War
 8811,Mrs.
@@ -8849,18 +8849,18 @@ id,answer
 8848,House of Lords
 8849,little direct political power
 8850,family monarchy
-8851,Biographies
+8851,Lytton Strachey
 8852,remainder
 8853,House of Lords
 8854,House of Commons
-8855,little direct political power
+8855,United Kingdom
 8856,family monarchy
 8857,1885
 8858,Victoria
 8859,Gordon
 8860,Benjamin Disraeli
 8861,June
-8862,General
+8862,Gordon
 8863,William Ewart Gladstone
 8864,Ireland home rule
 8865,Victoria
@@ -8879,7 +8879,7 @@ id,answer
 8878,Lord
 8879,Beatrice
 8880,Beatrice
-8881,According
+8881,Giles St Aubyn
 8882,The Famine Queen
 8883,122
 8884,Lord
@@ -8931,7 +8931,7 @@ id,answer
 8930,Cabinet
 8931,President
 8932,1983
-8933,Administration
+8933,over
 8934,three branches
 8935,Florida
 8936,Congress
